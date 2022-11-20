@@ -1,7 +1,1104 @@
-# BlackHub
-BlackHub Create By BaconHubBPH And BlackHub Join Discord From Me ? :https://discord.gg/ZrNArc8F
+----------------------BlackHub Frame--------------------------
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local Window = Rayfield:CreateWindow({
+	Name = "BlackHub",
+	LoadingTitle = "BlackHub Is Loading :D",
+	LoadingSubtitle = "Create By BlackHub",
+	ConfigurationSaving = {
+		Enabled = true,
+		FolderName = nil, 
+		FileName = "BlackHub"
+	},
+        Discord = {
+        	Enabled = false,
+        	Invite = "BlackHub", 
+        	RememberJoins = true 
+        },
+	KeySystem = true, 
+	KeySettings = {
+		Title = "BlackHub",
+		Subtitle = "BlackHub",
+		Note = "You Key Is BlackHub Thank You From ALl :D !",
+		FileName = "BlackHub Key",
+		SaveKey = true,
+		GrabKeyFromSite = true, 
+		Key = "BlackHub"
+	}
+})
+----------------------BlackHub Tab--------------------------
 
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+local Tab = Window:CreateTab("Game Hub", 4483362458)
+local Section = Tab:CreateSection("Cmds")
+----------------------BlackHub Chat Scripts--------------------------
+local Button = Tab:CreateButton({
+	Name = "Cmd-X",
+	Callback = function()
+		----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",true))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "DomainX",
+	Callback = function()
+		----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/DomainX/main/source',true))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Infinity Yield",
+	Callback = function()
+		----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+	end,
+})
+----------------------BlackHub BloxFrutis Scripts--------------------------
+local Section = Tab:CreateSection("BloxFrutis")
+local Button = Tab:CreateButton({
+	Name = "PowerCandy",
+	Callback = function()
+		----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		        _G.Color = Color3.fromRGB(255,255,255)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PowerxCANDYYY/NaMo/main/BFPOWERXHUBv2.lua"))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Hoho Hub",
+	Callback = function()
+		----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "NetnaYay",
+	Callback = function()
+		----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/NinoGod/NetnaYay/8d21ce23346c500c93bb8b4a71f7791e4058a70b/startload.lua'))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "Hallow ",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/hxllow"))()
+	end,
+})
+
+----------------------BlackHub Doors Scripts--------------------------
+local Section = Tab:CreateSection("Doors")
+
+local Button = Tab:CreateButton({
+	Name = "RegularVynixu",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "StatueHub",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Never Key System!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/idontknowwhattonamemyself/Statue-Hub/Lua/Main"))()
+	end,
+})
+
+----------------------BlackHub Arsenal Scripts--------------------------
+local Section = Tab:CreateSection("Arsenal")
+
+local Button = Tab:CreateButton({
+	Name = "V.G Hub",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "TR1V5",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TR1V5/TR1V5-Software-V4/main/Games/Arsenal", true))()
+	end,
+})
+
+local Button = Tab:CreateButton({
+	Name = "DarkHub",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "The Scripts Never Verify Key System !",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
+	end,
+})
+
+----------------------BlackHub Dahood Scripts--------------------------
+local Section = Tab:CreateSection("Dahood")
+
+local Button = Tab:CreateButton({
+	Name = "Crostide",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/cdhc/main/gui"))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "SpacedYes",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/SpacedYes/lua-projects/master/DaHood.Lua'))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "SwagModev002",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+})
+----------------------BlackHub RainbowFriend Scripts--------------------------
+local Section = Tab:CreateSection("RainbowFriend")
+
+local Button = Tab:CreateButton({
+	Name = "No Reason!",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Is A Pastebin!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://pastebin.com/raw/wa6pTcCw"))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "spookysss",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/spookysss/RainbowFriends/main/script%20(2).lua')))()
+})
+
+----------------------BlackHub Combat Warriors Scripts--------------------------
+local Section = Tab:CreateSection("Combat Warriors")
+
+local Button = Tab:CreateButton({
+	Name = "IsaaaKK",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/IsaaaKK/cwhb/main/cw.txt"))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "Novahub",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/novahub"))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "verm_releases",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelLovesPie/verm_releases/main/combat_warriors.lua", true))()
+})
+
+----------------------BlackHub Prison X Life Scripts--------------------------
+local Section = Tab:CreateSection("Prison X Life")
+
+local Button = Tab:CreateButton({
+	Name = "No Reason",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Is A Pastebin !",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://pastebin.com/raw/Sy0C9zLU'))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "No Reason",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Is A Pastebin !",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://pastebin.com/raw/mHfK0Xk4", true))()
+})
+
+----------------------BlackHub Aprophiario Scripts--------------------------
+local Section = Tab:CreateSection("Aprophiario")
+
+local Button = Tab:CreateButton({
+	Name = "No Reason",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Is A Pastebin !",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://pastebin.com/pUPQr9Bc'))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "No Reason",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Is A Pastebin !",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://pastebin.com/raw/0ptVa7Dn'))()
+})
+
+----------------------BlackHub Funky Friday Scripts--------------------------
+local Section = Tab:CreateSection("FunkyFriday")
+
+local Button = Tab:CreateButton({
+	Name = "Wally-rblx",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Only 1 Scripts is So Lol",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",true))()
+})
+
+----------------------BlackHub Template Scripts--------------------------
+local Section = Tab:CreateSection("Template")
+
+local Button = Tab:CreateButton({
+	Name = "DexWeAreDevs",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt"))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "No Reason",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Is A rbxassetid!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		 loadstring(game:GetObjects("rbxassetid://492016519")[1].Source)()
+})
+
+local Button = Tab:CreateButton({
+	Name = "No Reason",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Is A Pastebin!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGetAsync("https://pastebin.com/raw/fPP8bZ8Z"))()
+})
+
+----------------------BlackHub Murder Mystery2 Scripts--------------------------
+local Section = Tab:CreateSection("MurderMystery2")
+
+local Button = Tab:CreateButton({
+	Name = "EsclipeHub V1",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script", true))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "EsclipHub V2",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		    -- My Discord Server: https://discord.gg/HjKDVu2rAH
+getgenv().mainKey = "nil"
+
+local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
+
+-- eclipsehub.xyz
+})
+
+----------------------BlackHub BreakingPonit2 Scripts--------------------------
+local Section = Tab:CreateSection("BreakingPonit2")
+
+local Button = Tab:CreateButton({
+	Name = "No Reason",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Is A rbxassetid!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:GetObjects("rbxassetid://7228968882")[1].Source)()
+})
+
+local Button = Tab:CreateButton({
+	Name = "Breaking-Point-Funny-Squid-Hax",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/ColdStep2/Breaking-Point-Funny-Squid-Hax/main/Breaking%20Point%20Funny%20Squid%20Hax",true))();
+})
+
+----------------------BlackHub BreakingPonit2 Scripts--------------------------
+local Section = Tab:CreateSection("All or Us Are Died")
+
+local Button = Tab:CreateButton({
+	Name = "Op GUN",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "My Code Is So Long!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		    local old
+local path = game.Players.LocalPlayer.Backpack
+old = hookmetamethod(path, "__index", function(instances,property)
+   if tostring(instances) == "CurrentAmmo" and property == "Value" then
+       return math.huge
+   end
+   return old(instances,property)
+end)
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/IYU23HR98HF/dc62e4ebfd0d1057cfc255cd35348bbd/raw/13dbaa2ab3261eb834a55048f1e4c90b6a2894a6/All%2520Of%2520Us%2520Are%2520Dead%2520Script", true))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "Breaking-Point-Funny-Squid-Hax",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "My Code Is So Long!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+			local EnemiesFolder = workspace.Enemies
+local Players = game:GetService("Players")
+local Player = Players.LocalPlayer
+local Mouse = Player:GetMouse()
+local RunService = game:GetService("RunService")
+local GetClosestToCursor = function()
+local closestDistance = math.huge
+local closestEnemy = nil
+for _, enemy in pairs(EnemiesFolder:GetChildren()) do
+if not enemy:FindFirstChild("Head") then continue end
+if not enemy:FindFirstChildOfClass("Humanoid") then continue end
+if enemy.Humanoid.Health <= 0 then continue end
+local screenPos, visible = workspace.CurrentCamera:WorldToViewportPoint(enemy.Head.Position)
+if not visible then continue end
+local distance = (Vector2.new(Mouse.X, Mouse.Y) - Vector2.new(screenPos.X, screenPos.Y)).Magnitude
+if distance < closestDistance then
+closestEnemy = enemy
+closestDistance = distance
+end
+end
+return closestEnemy
+end
+local ClosestEnemy = GetClosestToCursor()
+RunService.Stepped:Connect(function(time, deltaTime)
+ClosestEnemy = GetClosestToCursor()
+end)
+local old; old = hookmetamethod(game, '__namecall', function(this, ...)
+local args = {...}
+local method = getnamecallmethod()
+if not checkcaller() and method == 'FireServer' and this.Name == "WeaponHit" then
+if ClosestEnemy then
+args[2].part = ClosestEnemy.Head
+end
+end
+return old(this, unpack(args))
+end)
+
+})
+
+----------------------BlackHub Infectious Smile Scripts--------------------------
+local Section = Tab:CreateSection("Infectious Smile")
+
+local Button = Tab:CreateButton({
+	Name = "GreenGui",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Nicuse/RobloxScripts/main/InfectiousSmile.lua", true))()
+})
+----------------------BlackHub Evade Scripts--------------------------
+local Section = Tab:CreateSection("Evade")
+
+local Button = Tab:CreateButton({
+	Name = "ZReal-King",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Never Key System!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Evade/main/Main.lua'))()
+})
 
 
-,nil,nil;(function() _msec=(function(e,o,l)local H=o[(0x7bc/45)];local z=l[e[(0x2b6+-36)]][e[(0x617-819)]];local v=(99+-0x5f)/((-139-(-2664/(0x5f64/110)))+129)local D=((608-(687-0x163))/0x8a)-(73-0x48)local y=l[e[(-0x6d+291)]][e[(473-0xff)]];local P=(100+(-0x7c-(-11-0xe)))+(0x43-65)local i=l[e[(-0x60+(1331-0x2b4))]][e[(120785/0x91)]]local d=(0x6c+-106)-(-0x25+((2020/0xa)-0xa4))local g=(-122+(308-((-59-0x2)+0xf3)))local j=(0x6d+(((0xc6-115)-104)+-84))local u=((-55-((331-0xbd)-118))+83)local S=((((-0x8b18e+(-175+0x4b))/0x1f)/0xca)+0x5f)local s=((((0xc2c60bc/(430-0xf8))/161)/82)+-81)local B=((162+(-6335/(-0x64+281)))+-123)local c=(112+(-39+((0x28+-82)+-29)))local b=(36-((0x25212/(-118+0x14b))/21))local f=(119+(-204-((-1783500/0x7d)/0xa4)))local h=(0x62-(251-(-96+(63252/0xfc))))local U=(28+(0x44-(0x324e/(0x19b0/48))))local _=(0x1d8/(568-((-0x19+69413)/0xd1)))local M=(-0x28+(162+(-0xa5-(-2576/(0x690/30)))))local N=(-0x5e+((((35+-0x2a)-0x2c)+0xd3)+-63))local w=(-0x76+((-0x27-((-0x2594/185)+0x43))+0xaf))local k=((0x6d+(-65-(0x45-70)))+-42)local t=(0x108/(((-0x6db/(0x1040/64))+-0x38)+171))local C=(-113+((0x3c4e/(-28+0x5a))-133))local Q=e[(1366/0x1)];local G=l[e[(0x1cd-279)]][e[(0x256+-106)]];local K=l[(function(e)return type(e):sub(1,1)..'\101\116'end)('етаеоршф')..'\109\101'..('\116\97'or'рфытеаши')..e[(0x87c0/64)]];local V=l[e[(0x286+-103)]][e[(195464/(327+-0x73))]];local L=(53+-0x33)-(-31+((306-0xba)-87))local m=(0x76+(-0xa2-(-0x5+-41)))-(212/0x6a)local Y=l[e[(3276/0x12)]][e[(-0x62+440)]];local a=function(e,l)return e..l end local p=(0x154/85)*(((258662-0x1f96a)/0xbd)/171)local W=l[e[((78151+-0x1f)/0x46)]];local n=(-0x23+37)*(((-0x42+3)+-0x32)+0xf1)local J=(153600/0x96)*(89-((0x2fa8-6110)/70))local R=((554-((5955/0xf)+-0x4a))-179)local O=(0x15-(3591/(394-0xcd)))*(0x1de/239)local x=l[e[(0x2a150/162)]]or l[e[((0x85878c/68)/0xed)]][e[(0x2a150/162)]];local r=(((0x209b8/105)-684)-332)local e=l[e[(0xa04-1329)]];local A=(function(n)local r,o=2,0x10 local l={j={},v={}}local a=-d local e=o+D while true do l[n:sub(e,(function()e=r+e return e-D end)())]=(function()a=a+d return a end)()if a==(p-d)then a=""o=L break end end local a=#n while e<a+D do l.v[o]=n:sub(e,(function()e=r+e return e-D end)())o=o+d if o%v==L then o=m V(l.j,(Y((l[l.v[m]]*p)+l[l.v[d]])))end end return i(l.j)end)("..:::MoonSec::..яшертыуиопасдфгхурииштсшапхпооеыдепургиуехдптдгыуоггеифдиуяпоошапаехддупеысдудхрихфаогяесыпреодыуееафсыигяухфроихсагопешсгысеуфгыяфауеытаутргяифшасиытршфиргдоуыяеспехфгигяипуфеоеегуиешсутисрыпгышосптагпгдояшфсаогеддыеодотддгыугаяшоышусрыяеддеыуфгысгоугаиыыятосяиугхшореясфотрадртидхтгфуыыгфусхоуефшырхяофуаххофяспгераегтпхтшипеефртхфоуигсиххррохеопшхпфессурдштыфхрпяефяеаыгшпсттдотеоедптхгдопуояыпедтугшапгерсеггаорхфыыргшудпхыахдртгаофдпгтгиисшосыогреааррсдтесгышгуттисшшагтсетсфырапыдгууятофяуфяааиттгшадыспшифхеохедяыафешсстрсаетфотдпштггтиохуиашттехтпыряыгшодытудгтуфыяхдаудатыыяшоеягтихыпуепаофяхпосеодыпртиссяясаышгиуыхригятртдеысхопыухяиашетдсыыгяифшахяппшфпоетаоефсдхоашыхофрсгтиухшоыхпфтиахспорыштсшргиярадутадхыгпаиыхиехяооеяыпиесыпепсаггдитшдтыупшрисрдерофыиееппхтпхаиоягтегхаееуасгыаярссхяшахыягруеаттфяиофдяухяхаофдиихаошяооаяусяушфхиыхсасртфшугеыпстыхуитяарггспгееаигшпдриссхфастдфхыгеохтопеудроеяеосшупуешатреархдоешхсдпяшппрхиатыидфуяпатгхиифхспудтишетаоефуиеидтышдхшфагтсгодшудффуафиояхдотхдыфгтуфеаоешссоыытедрыуфыпфяааярффааеыдгеупгсишсссяушхдппруятаяттсятигтоштхгхошяопеешухисяуартяяисптяисышфсшяддишаытфяыихдшудшопсешдяатешсгысршфаыгфпуыгпугхфрпгеаядгахягаоессфяыаатхфсыспсыяггоухдпядыиишосрхртшфеухядхшошхяпихааеяосушпсдепфяддсгрхфдипыыгсиххфогшшпифяиаефстроиррсдхтдохригпияасуыхдпешяаееыахгыгыидшпсуосшруародфтфыдагрсфоиытггииихтуыяфппшыпператепдррхддыессосшдспыуешфутфффушгхтгяеиуссиофапояяопеудрпдррдптифыуягушадхиияррухтпршфпфееагегдшыптпфгисшогепашгптегаарисфоотдфиитшшгтихшяпшфридрауоердытхдыясссудаяытхрфхыыхеохеддпаусегяятгхииштсшуофгофефсутыошрыфяыагеетдфосспиряоппяыасрифефаупяуарудшдауедаагдаиырдтыифгутпфруыыифшяафтаехсуышдатхгоудгууфяяфяахтргяифтигсорярирягпеешаярятпфпиушргсоыягарешпфрыаятадутофгуеааургрояшфгыпдшуппеаахрсссесфшыефгуспгтсяшошяопадооееисеефаххеаштшфхяерысфыахигшуфхгиыяопеясыдшдархесшеепфеипоуедгирфиитеашуахтдгпсеургшииыыаяртфшугрфгпуоапыряуодягаятыррдауиятдгиегяогшыпшитяшопеудраерхддхгаоытфоыфгдеогшисхгпядсошесуяшысфтпяогиисшосыихршсотедахгафушфыгаоышшагтсшрдттядпыопттрхиуссяуишяптшупошфсыодхпохеддппитафшытсеыигфряыргсооеыхтпхшааиедегиояфаатишпдрргдрыффпуугдяриряуартяшпдшрыдфыудгуесгирггыаашрпфуиррфгхиуяяооиддсысхопыишяипсшфпушяааросорсфттфгеедфсуыяепхуфшпаяфаиегоаерпдхтффсуупптпхаеггопшшухуаишфсаыияготррфрыдгсеифяошяспсхяарефсрехдяхтстышфгшясауугауххграгепфераыярсуедсххппаесоеошшпсуырефдпысфаыагдаорсфоиырфхиифятоуядугшаппепсргяугясаоооетапеысрруиортфуыхффуггсиихигыерсетхгдстусгыуохпигяаоахааяеуаораихеядрыпхупрушяхухшфыыреиышгшхсыыегхсдыфхяухфпофяшдеоышшагтсшгсптадсяфсуитаеышфгригыоушппдеоаоыурсохеддпауридхтффпыпппыпхуорсыуышштахоппедасгфпутифшушсуупхрипхыоусаиошшпсееыфядадргдытхфгягдоыххыиряшодшетуяшарфспырпсшттигеофтытггешфшифсууяшрппеыаоедадуефшуыяепхиоеяптегсуефпитссхыеуахспорыетсяехсптыфетадыыдфхуфгдхыгеуояыаеияшдарффпираиешддхыуфашыфыиеххршгдпшшхтфхдатехихххптршдгаетасттгфшуагфирытшяофеадиигхтагтыфсыпгииехоедяшопдшигштаоеуааттиеетдыуяогрсггуогхршгфпеясрссфргфсиоехаыитхтифядтояшпиеусеефдшыяоятяффуапдуухеиухсоадупышыагтыгяисшосыодшоясрудууряяфуидясояшташхриоядопеыадррапттфяуфяагтупдхисгшуяяфсяегдртфсгыуфяшхдхртфссатггсооыдхапргыпхеыадегстяыуугтошшгхспаетатепсырыиыешфстхфтуфхрусххртфгптягпшшсаиррсрхрпдыаоотоафируухопырехдатргпетддстгфоуефдияяфрадоуыяедсигярихяыпхфепяешсптясгтсфыыфуриуядаптушясттдддрягтыоафгшуояыаеиышяпаееутяфдсхппштфпгшыфыиеххршфсоияспяшхысеаиохиптршгоыгяфафрудыяшсаыяфхусгуиаяпрпгуппшипаеааирфишесдгяустургауутафругясаоихршдорхспыухрааеяфаишяиоышрпгфшисегсырпитшффиыфпятфгриихыипшртшхрптехыфшидттыдфтыфтоусытшфгистггпирхсрфгуатфепяеыоотясаеядоуягтпоегсхыдхпдтипхяояятпехшаышпыгшсигхрпдеддпууехгыыхгеидхтруфхпфдсурххияофатруфриятегууугдотшетягппаеаашаыиряуартяресдрысхыыффуегяудгдтоашрпфуиррдгфусссуфхадпысхопыошяиуфшшаыешаашпсотидухеаиесдоуырсгтуехрияхфорсдисдаиххфпугупфтудтыыфоыгпитаггиехоудхтпшегдсуояыоеигпшояшусрыяетддыаддыаггуеерхииеяхадоошгсерядшттдаярахупффуехсошхпрсгспифяотррсирясотдагушгеуагеиуятредсудфдыфхапиусшртсятпгешсарфдрхдсштсфгыфпхтпхыипхгофдпопеусрросшрхдяфхтыпарифтдеыыфдыхгприсрраятиашиыышыпгряасрхсртффетсфхыигаияхфиыяыпефрохееаихядяшисстффотгашттгшифхфтехшудфиифешашроагтуфтшшфуышгяудстихяеохшросштутепспедхттофрияяфгуифшрпшшхааряутштдяхпситдфяуогыиигхрруфггосеояраоешуршрсххоаытсфсыигтияхяряфппршптдхыпсетсршрдытдфуыгптпиесдоуыеггтыггшисхрушяыоыпаегдшыгхсдритхгоггрпуеяауеесрдфушхтпшегяеаярппдрысаыедгысгштоаоеидтушепсртофяерфеиехсоадуугепахршупшудпрхфеядстуогыеофяихяауушааухышупгрсфодтыафаыгхрешггошххошяыатфепарыссрфдытодтурыихапяефдапштпфштафаытгусуыягдопеуеефхядпарифтадтефшыффоудхсесфоосяподшдппехустафгисшохыоушопгяфсшефстратффдитшшагирхаошяоохфсххпуррфяпсырдытхфишпшддяыыхеохыигфоххыиаеыпешяыфдштггсооыияроеяоофеыашегсттяитегдхыефдыдитпаехддупыдсгурдхрсгаотфтяшпшеодыуеруфтуффшуыгфшаыогиотешхтохшпашгродтаиоредиыодтуахуыыххогесдопсрудитооаррхшшхдооехспрясогыупхрыфеухтсаатаааыпяфошядххпшегдспатудыяусшыфгоурхиитяарафоушхгпсидгфоыхсосшоаохеастшдаырпырхгхирхторятпотртысуырхядриуатыгяеигяыосдгоешфссгаоуяоохяуахыыфгишхиуршяодяупдеупхгшсгяеотштотррфрудаярссгтыддтроарядруяхффуиухеоыядохшсотетаптфыххупрряяуапеыдтридсшгетсыыегхссишхшиыяарогыпошупошдссуиофеесхыдеыфсыхгаиеггияхошоаяшссоыыядоершфшыагпеыдгихяпппггашессшефсгхепаыыфсыфссуггтиисшууягтухопфшгафсиоряуартяшфсдтудуяесфыхпитохтиыяшрахыпидхифшгсшряиеедфттогяупгеифяпаутрягдуродетаодтфддуугписдруояфппшпыппухпоиетдшпттрдитядоыдсгишхеиахеоушттефсшяредсуояыяеиряептдссдыягфоаоряиофштпиедафртссгрышгуореяхпаугтигхсдршдадпятффхидшпхеохшпппепорресфрпдфыппаегахтдгпсфуыпфыухяирядохшытгярпфряаххшпстидсыяфхшсфсиояыуаярпшшеипыигдопеухапоегахепаорифуяятпгыоеешдоыпхупртгдфуаяисуфгфгисшогяыегходепдууряяпфрафиитшшагтсгооуеесхыдхппутыфяуфясаиутгшигшсдаыыхепяедруууяраяурфаиишысшыигсопеыхшыхяяшшруфрияшуаатогтоштгссыохыпрехддупяоахтяфгиарестышггпфрсдыурххягрпфуирееафтагоотаысгысхоаиредхугяпяутргяифшасиытхеогефдоууяесшрдфпиишрдатфгаоиттдшыгхдпоруфеаояддптугрошшфссыияепштядсуояоаеуефдипшусрыягфогеидтушярпсуофыиешрадоигуоуеягффшхипоршгяусшеаыиегфидшфсуоахяатеахиутяшаерсхгиыегахидгпоуеидяиохагфртфшугясаптыгуихшфспуохрпяегдагсяташрггфиошысттххшопеудруяхфпарофтирягадтохиоешхсфыпшяпррядфоаяиаттефгидшоггыеяходепдиуряшпфтофиоуыиагтггоаоеесхыдхпыыррфтуфяааитпгшагшссоыпхедфедддуурраярффгииеусшпргссоеыдеурхдфяругаиярфаатигоошттсситхыдеехддуфяусгтягоиашистышгхоседдыурххагрпфуитшяяптагиотррсгысхапытддхудяпдутргяихшаспытеиогрфягуыяупхаяфпиушрсясогаопетдыыгхспорыфеухяфаптугроешфсаыихтпеегддуояиаеыхфдипшосрышгфхшеифуушхгпгрофоиеяхадысгуоретсфоухиптршдгусяоаитегридшссуирхяофефдиууяшшррсгаиышесттдедоуердяыфхапирифширясаатыяерхшдсфыухупяпудаиптыашттфсаошысетхгдопеудиуяярпарпфтпшягастфгыоушхясыпяопрряфтуатгаттшфгофшосыыагхаеепдууряеапрагяитеиагтсгооыефсхушхппхррфшуфеауиттгуигшхсоатхеашиедпуфярхфрффаииеухитгхроорадеыххдпстефрипяфсотигтошшгдуыохапероддуаяудряяффихшисоышрфосраясуеяупдпефуиршясхпягиодешфхысхопыртфсудшеауутгяифшасиугхшпресфшуыярпхыдфпиушосяыягахяетфрыгхспхрытхухядаптугрояеесаыгхтпреггсуояыаорхгшипуысруегфоаехдтсххгпсрогииеяхсытптдореясфыдярптрсдгоияоаытефхгхшпсдырхаофесдиотяшпгтшфоиашесутдхсоуердоыфуппиртфшояясаотггехашдспыуяыпяеффтуиедашргфсоашысеыагдпоеудруяххауригяишесастогыоерпсдыххупхрядгуаеиаттшгтисшссыссгхпгепдуусяяяырафиитшшагтсггоыеасхыгхпсуррфяитяаафттряигефсоыыхсохипдпууярсерффаошштрштггсооеидгыхяипптффрияяфааыегтоошгдуыохупетходупяфартуффдпшидупиггптеояиуеххпдтсшдиршаафоигиотешдяуихоаяредхудяпаутргсифешсиыххшохесгоеыяеаурдфхиууесяыхряоиефдшгихспорыгтсыядсртуыпояшфсаыпяяпшрпдсудяыаерхфдотшусаыяхооаеодтошсгпсрхфыиояххстпходпеядуыаштптршдгифтгаытдфхфушпсуырхеппеафеутяипгрсфоиыедахыргппшердшыфшапиртфоугягаоаггепшшдспыххрдаефдауияташрггеиошгсеышгдапеудруохфашриеришеяастогхоетдсдыпхуаырядфиыяиеытшфгисшадшыехсодрсдууряяпфтыфиидшшсатсгпоытеихыдяшпурафясдяаспоагшоошсхгыыхеохргяхууягаятффаииштсрыагсптеыдпыххдппруфгияшыааыргтоешгфсшохыпаехфрупыыарыеериаешстоыггосеофиаоххаирпеяиршяафтдхротефсгиыхопыредхоуяпагтргдифшссиитхшогррдоуояеяордгсиушрсатфыуоиетдшыгхспорффеипядастуярояшфдрыихдпшифдсиаяыаетафдхшшусрыяххоаеифяушуопсрофыитшсадыугуауеясфыахипхршфиусшыаытрфхпдфпсуыдхяпыеашуутшргтрсгриыуяахтдгппоупдяупхапфртфшугяфсттыгхихесспыухрпяродаияятагргфдиорыиетххыопегдраххфадиффтидягхгтогыоершяеыпяепроидфуаяиаутффгоошогшыегходепгяуряппфтифииышшдгтсгоогеедеыдуепутыфяуфшыаииугшигшссоыыхепоедфтууяыаяыффаиишгсшыигсфиеыфтыххдаыруыеияяфааыпгтошесссияхыпеехдгиыяусштяхуиашистышхпосредыияххпфрпхурршяситахяотиясгуфргпыргдхипяпаутрхедршадтытшаогесдоуиягпхтафппашрсятфгапеетдсыгяппоруфеохддапыягропшфяпыияуфиегфиуошгаерхфдосыдсрыфгффееидтушяяаирогриешхадтпгуоррасфутхиаершдхусеоаытегпидшдсусдхяпхеадиияяшядрсфоиышеахтдхроуехдяыххасиртфшипяссетыршихегспыуяяпяседауиятсрргфсоушыяитхгдопеодхуяядпарофтишягасыргыофшхдсыпхипрыяофуашеаттсфгдашодипогхппепрууряяпфтдшфитшхагпугооыеедшуохпаыррхгуфяааиттхсигеусоутхепяедгпууярасрфффииифсшуягсооредесшхдппруфрияяфсытихшошеяссиохыперсддитяухетягхиашидеышгхосеодыитххпдтофуихшяафтагппяешдгысешпыредхудштаутхгяофшасоытшштгесфтуыяфпхосфпооыпсяысгагоетдшыгяффгрыгшухуяаптугроеепсауихтаыегдсуояыафрхгоипеусрышгфаагидтуфхгауроетиеешхетпхторыссфыахиауиидгиаяосптефхидшсдеыряяофррдиутяшпгыыфоошшесхтдгаоутрдяыфяупирифшфияссатыгеофшдшоыухрпяефдауишяаштдфсиашыфетхгдпуеудхуятдпатпфтишшфасдггыоешхдгыпхуарряядуаяиаттргаисепсыуигходепдуугяяаарагоитшеагусаооыехсхуохпгырргесряасуттыыигшссоуироохрддпаыяраярффдорштдетггфооеыдеыхшупптрфрошяфастиятошшгдоыохопеподдисяуартхффоршистышггосеофеуеягпдрсфупршяафыогипшешяфысяапырефхудыыаутргяохшасиуыхшдшесдоуыятасрдгсиушосятфгаоиехдшудхсаарыфрухедуптухшояеасааухтаритдсиояыхорхфдипеохпыяхгоаурдтушхгпфттфыотяхсотпгуореяфиыаяыпттрдгудяодытефхоашпспырыпофрддиутшшпгспфоиышеахтдгпптерфяыфхдпиытфшугшааоыргедгшддсыухрашефрыуияташыяфсиоеисесегдопеудыудхфафрихдишягастоххоеегсдудхуптрягфуаяисртшгшисошсыутгходрадупсяяпфрафиитшшсфтсхпоыетсхидхппутрфяидяахуттхригшсдаыытрохеддпиояраяыяфадхштсштггфптеыфуыхяуппруфрияеиааыигтпышгсдыошыпеехфдупяпарапффодшистурггягеодыуеххпдрпгуирееафтдгиатешсгудхоаырешгудшсаутрхрифирсиытхшаяесдоипяеаирдфпиушысдтфххоиеддшыгхспотяфеояядсгтугтоярфиаыияыпшргдссияыстоыфдодшуфиыягфоарпяаушшепспафыиеяхагыыгупоеягоыахиптршгоусшпаыыифхифшпфуырхяпгеадаутуапгтффоиыеыахофгпоуердяыфхааортгтугяфаоуыгеихегспуихрфхеффдуиятсыргетиошысеушгдопрсдргохфпарифуифягдштохооешхсдыпяшпртедфояяиаытшхгрсшодиыеяяодиодуиытупфтгфиаешшагтсхадсеефтыдшгпуррфяухшуаиыагшпгшссоыыхеапедфсуушпаяргфапиштсшуягсосеыесыхягппругиияесаатигтошшгссуахыауехдгупеуартяхяиаепстаяггпфеодыииххсгрпфуирееафтахфотыусгысхопиргдхоряпсгтргяифшадеытятогтедоууяесххдфпопшрдетфрпоируяиыгшяпосдфеухядссодгрпушфгхыихтпшряфиуошдаеуыфдипшусруагфпфеифсушххпсыофыиеееадтдгугдеядхыахиапрштшусяоаытефхидедсууохяохеагиутяшсерсгсиыушахыггпоурпдясохапиртгругяссхтыреихшдспыоххпятыдаптяташргфспешыдутхятопеидрояхфпатсфтитягшттохиоешхфеыпхапррядфуаяиатыыфгпшшосиыеяходепфсурштпфопфиоушшагуегохуеесхыдяспурргоуфшфаиттгшояеисоугхепаеддпууярасрфгхииефсштхгсаогыдеитхдафруееияшххятихсошаяссыохыатиыддошяудетяффиашпдяышяиостхдыуеххпдырфуоошядутагооттшсгысяфпырыдхфыяпсотргяптшахиытхшогесдоуышипхырфпиошрфятфгапфетфуыгтапотифеухетапдегрояшфддыихтааегряуояыаетшгоипрясриыгфоаеидтудхгсшрогхиешяадупауоррусфуххигрршгясшяосфтегшидшпсууыруофтрдидпяшпгрсфаошшедптдяооуердяыфштпитафшооясаптыяеихшддхыухупяпудаипяташыуфсаешысетхгдопеуфпуяшыпарпфтпшягасыхгыпошхясыпяопррягууароаттшфгофшосыудгххшепдууряеапрахеитееагтсгооыефсхирхпсшррфшуфеауиттхоигршсоатхеашиедпихяршпрффаииеухитгяыооупдеыххдпстефросяфддтигтошшгдуыоядпетаддуаяудряяффпшшидаышрфосраясуешопдтафуиршясхпягипгешерысхопыртфсудетауыягяифшасиугхшаыесгруыярпхыдфпиуеасяыягахяетфрыгхссшрытдухядаптугрояртсаияхтпреггсуояысарххрипуысруегфоатшдтиехгпсрогииеяхдитпяфореясфыдярпттфдгугяоаытефхоишпдгырядофесдиотдшпгырфоодшехгтдхсддерфаыфяспиртфшояышаоуягехушдспыухыпдефгууиегашргфсиоеясеуигдаыеудтуяхфдарифтишяхастогысшшхсдыпхапррядффиясаттшфгдстдфхыгтапрепдуурршгтусггтдхшоиыгхеоыеесхсшрсстргфтыдгшыхгсусгсыссоыыхегяирхаифяиыыфшыоеепорыирррсдтгдпыффшусхяупхфиыяоогшспрерсяхшафтядыягдиыягииясррсдртугуитхтоешпопхисдридуыепарггоушгсиияроряеиххафиудяпауыытгифшасиыихшогесфауыяеаярдфаиушрсяуфгаоиеыдшыххспарыгтухядадтугиояшфсаыихтпшехдсусяыаерхфдипшусрыягфоаепдтушхгпсрофыиряхафтпгуореясфыахоптршдгусяоаытефхояшпсуыреипшеадиутышфеуыгтхтуеахтдгпфиуахшитхгтддотхшпохедуаеасртыдяытдоуегиуяхтудххоышеоашааигоатрисдяыфяытфаушгтипхаошяотсхыосшаауешсыттпатфдстгфгысхшртхпитярохфиаешпахефсстуигшепишуаиеысшиуяуипеирафяуфяафоосшепыхрпоегшиппеддпууыогеысгыисяроояупешеефдеыххдасатфрияяфагтигтошряссыохуперяддупяудртяффисшисыышхшосрадыуеяепдрсфуиршяафтагиоыешдшысхопыредхудяпаутргяихшасиытхшогесдпуыярпхрдфпиушрсятггаоиетдшыгхспорыфуухядапдыгиояшфсааиеоссраеуухяыаерхяфдятидаеодфуриядгушхгпсофшипяшасяросфрсдитигсшоптршдгсдтхфуыпгрршафртхдитяфпыяфпшшхасхеагтшдуяхфптхгдесхяыехиурдхигшоуосштыгеихегшшыухрпярядауиятсрргфсипшысртхгдоптудруяхгпарофтирягсфтогыоышхдяыпхупррядфуаясаттефгисшосыыегхофепдауряяпфрафиитшшагтсгооиеесхыдхппуррфшуфясаиттгшигшссоыухеохеддпууяраярффгииштсшссхыооеыдестргситшфиыхгтуеггугоееыссыохыдриухфояфгоршпеудяшистышрхфеыпфдуустрясиошхиптфепешсафеосдрядатхдоыдфтуигфиахеоеяхыяядпхетуфяпсштшдршрппшхаыухгыугхиидядпяшшаяешсыхпсгрпдоытпдтухяутяеыоядояшсыфгшуадиифшусрыярфсгышфяуахгпсрогидаяхадтпгиореясфудхиптредгухяоаытеххидшпсиырхшофеддииуяшпгргфоиошеахтдгпоуердтыфхспиртфшугясаотугеоршдспыухрпяефдауияташтяфсиошысетхгдоаеудтуяхфпарифтишяхастогыоешхсдыпхупирядфуахеяфтшфгисупхдоряупяфгыагшасешсгхдсдтыфиыегуыахтипхеоухгпшшиатшдадрпиарудптгпирффхусхрыеяшифдхиышрапеаатерсеышогшгфшеуадуыггтедаышфпуешууххшиореохшядутфааысстуодытуяеыагшуагпатхаифяппртраяеяфпефхоояхтодшыптшгпиешиеридираттетсиытхшгруфгуияяуогшрпшшфпфгиышгаоиетшшпееыатгафпухядапииеасшртперидфппегдсуошишярхфдипшосрыягфпдеидтуехгпгрофыиеехадтпгиорешсфыгхиауршдгугяоаутефхидшпсуырхшофефдиутяшпгрсфоиышеахтдгсоуердяыфхапирыфшухясаотыгеихшдсаыухрпяефдауияташтефсиошытрыргдопеушрптеиаусухшишягасппедсррудяягоашшфпышгаиегаугхдоодхосшгаргдстеяаееафееясяыоигсытсгооыыряуофшяугшрапртштаиттгшфрыффууяхуигярошяфофаорффаииеушхтггсооепдеыххдасруфришяфастигтошргссыохуперяддудяусытяффифшисуышггосеодыуеяяпдрдфуиршяафтагиотешсгысхапыредхудяпауттгяигшасиытхшогесдпуыяепхрдфпиушрсяышгаоиетшдуехспорыееаррусытигфояшфсаадруахрпдхыифдыагуууыешфсрыягфссугхыиофуисшшхасшяхадтпридаышфтыгадеоахипгходдаоашраыеястеодетидяытддыхгыиегаиаяитоятпишдуыггаахсдстфохтаффуегпиохоиаядпофыпашыагруагтеоутуффыофхупхопшеудруяяхяорифтишшяастогыптшхсдыахуптрядфуаеиаттшфхисшпсыыыгхпгепдуууяяашрафиитшшагтсгпоыеысхыдхппуррфяуфяааиттгригшссоыыхеохефдпуияраярффаииштсетггсооеыдеыххдппрафрияяфгштсгтошшгясодшхпгиофрупяуаришетасегодршдидеиидыуеххгфояяиоаштуефгуыехаытеоятядпысфууафгиохфиуяаоешыпсеоаярясфхгсатффешсфдыгхяиуярошяспрееапешашрсдеттдаттфиыугыиохпиеяяошфшидетпоресаршояеефутапгтехеуысаыххаопшышясутпгуориыххиояепоеяаыерахехтафхидшпдодшхяофеадсутяшпгтффоиышрахтфгпоуергяыфхапортфеугяфаоыигеихшхспыпхрпяефдауиятаергфгиошысетхгдопеудруяхфпдрифтишягастогуоееясдыпхупррядфусяиаттшфгисшосыыеяшодепдуиуяопфрафифшырфгуугсупхыиышшяяпуррфяпстяфяытгеудгыысыдхеохедхапгешасррдитхшысфтггсооиуяппяшроперпфряссредитхыаеессыохыгриухфояфхаитяффиатехуиеягхоехдыуехххеуфхдоогдофеоууогешсгысруфсытгоеадыиехиоиштрхдфытхшогыпшроиядаыесафриудтшдпыыоотегсуфхтиаятофяыосияыягрояшфяхппшепдресархсфтпдпгхидшусрыятпфуыеяфуохгпсроеыаатясархдхыгтыдяыахиптоояаптппаотефхидыихсидыфптеадиутыдфуупхтусяяооыхгхоуердяаитядитяфтыфяддитыгеихуфяяоияаптгеыггыпгртстяясгтрфрыигыухгоиеяуиадфпгеуаггаарргдтрхсядшыпхупрыоясодеииеитфгисшодигыгходепфеуряяпфрафиитшшагтдгооиеегхыдхппуррфиуфшиаиыугшигшссоыххеохедфсууярашрфгпииштсшытгсооеудеиихдпаруфтияшшеетигтошруссыпхыатхяддуаяуаитяффиашфухышгхосррдыурххпдрпфагсшяафтахеотеесгыхияпыредхотяпаитрхергшасоытхуогесдоуссфпхрффпоошрсштфгаоиеорпыгхспотифеияядссяигрошшфсхыихтпштгупуояуаетяфдоошуспифгфосеифдушххпсрпфыиуоиадтпгупсеясгыаяпыыршдхусшраытефхоетусуытхяареадоутяепгрхыяиышеахуегпоиердтфыхапиртгпугядаоыиарихшфспушхрпяефгаяыятаергфдиоетсеушафопеодрияхфпаригуреягагтогуоешхсдусрдпрртдфисяиаттшфгеешосаыехшодепдуупшяпфтяфипршшахтсгооыеуриыдхппуыефяугяааигсгшотшсспыыхеохргяхууяааятуфаииштсшыугсофеыдпыххфппруфрияшеаатигтошшгссыохыпоехдфупяуартяффиашгстышггофеодыуеххатрпфаиршяафыдгиотеасгуфхопыредхудяпсятргрифшасиуухшогрудоудяепхрдфпиушрсатфгдоиеудшыгхспорффеииядсртухрояшфдшыияепшрудсуояыаетифдипшустыяшфоаеиддушяупсрафыоеяхадыягуоуеядыыахиптршфтусяааыттфхпдшпсуыпхяпреадфутяшпгрсффиыштахтггпоуердяуехапортфеугясаотыгеихшфспыухрпяефдауиятаыргфсиофдсптхгдопыияапшштиешиаффгшоастогыфиушфаутхаоеяиоышшпштитыфгисшояыоушппопушфуряяпфосшгаыеосеяяидярдфтргяшгфгуихпитяоидшупсштаоеясррпдургдгыспдыогсияспотхподшспееяоиршсхрыдаегдгышаеиягуиахдиыяхопшипишасреддшятдпттфрыхаиуехыиахуидшуооеипорясирыдетдфтшуфсусфгпгредхудшсхгтргяифшдсиытхшаяесдоууяеаердфпиуррсятфгсоиеыдшыххсаарыфеиеядафтугрояшфсаыихопшехдсуояыаерхфдиашусиыягфоаеидтушхгпсрофыитяхадтпгуореясгыахоптршдгусяоаытрфхидшпсуырхяофеадсутяшпгиегеиышеахашесатегдттдфштхфсыстияхаотыгедхыягруефгпиефдауирыгоуххеыяхыосоуеяопеудрсшттдстгфоеуаеепгтудхфттштопядатшгатеддттооаышдхуыаииегпиххфосшупдфхисерсфхшоыяааууяфхуегдиухяотдиптшхаетдгшигшсдадрхеохеддаууяраятхфаиишысшыягсооеыгеыххдпаруфтияшяааыпгтошешссыдхыпеехддупяуаттягяиашистышггосеодыуеххпгрпфуиршяафтагоотеесгысхопыредхуфяпаутргяифшасиытхыогесдоууттпхрдфпдиыагшутггрдсорхяпихшдыашааррысяттсоыефиыягтыдгхиыяеиаяапифоптеиадхыпхтрсфышдсыхапегсиргдеофятпашоаурширросртедгшусртссфтидхрхятптяиеиптеадиутрегыудгхтфхеооффгфоуердяафегдштяргиоясаотыридшрадтыагеуигыишхшяфашргфсоауфсетхгдофеудруяяхпарифыишшшастогыаешхсдыахуптрядхуашпаттшгшисшпсыыегходепдууияяпграфиитшшагтсгпоыеусхыдхппуррфяуфяааиттгригшссоыыхеохефдпуияраярффаииштсетггсооеыдеыххдппрафрияяфпытггтошшггдпхеуапяиадтеесафтяффиаудхууххпохшипдшаауеутдхииршяафпсегсыродешяодшрфсыргдитгдияхгоафшофеяаыггсоегдсяапеыпгттффхрдфяошсгеодшыгхсгоупхдисштаптугрпеоссаыихтпрегдсуошиаерхффипшасрыягфааеидтуехгпдрофуиеешадтпгпорерсфыахиптршдгудяоаотефхидшпсуырхяофеадиууяшпгрсфоиышесятдгаоуердяыфхапирыфшугясаотыгеихшддяыухрпяаддгуияташогяхаеешуиыпгдопеушоаешсаырсдртодуыефеегдышхсдыптяфеуягршсгсухсяояшетышяаешхструиутаифыяфаырффеяхрифятоидрпршхыоррагреитргфшыигруугауаадипяппрдоаееыааепустпсаыефыушпыесарухяроаягпоеяттахтигтошиахгиушрпштефяупяуарпфшшааепсыусггосеошуапрясррфосяиогыудгуигхуисииыхдтфшиысяшуаеисияуоыяфяяысхшогесхпадррсуштсптхшгсятфгаппдгдшыгхспфрыфеухедаптугрояшфсаысхтарегдсупяыатрхфдипеосрыягхоаеодтушхгссрофыитяхагтпгфорресфыахсптридгусяоаытефхигшпсаырхяофеадиутяепгрсфоиишедштдгпооердрыфхапиртфшугясаотигеояшдспыухрпяефдсуияташргфсиошысеыргдопеууупсхфпариеысорхдетдпашупфуиффиасоиояшпрягаешусярыагтесатффруяфоуохырухеоыяаырггиххфуфшхифшоапеипитпаиудгиояяоояштыоярауррсиехсооеаирффаиитыхоихяеуяяыпсштяяппруфрдятшфтыррхосшгссыотафттффиуфхыиахоотятеястышггпфоядыуеххаярпфуирееафтагоотетсгысхосыредхуфяпаитргеифедсиытхтогеддоуыяепхрдфпиашрсштфгаоиетдшыгхдпорпфеухядаптугрояшфсаыихупшегдсуояыаетяфдиашусрыягфоаеидыушхгпсрофыиеяхадтфгуореяфяаухиптршшхсерпсдтуптшяпиушфиитсеиехсофяопдшяааехаордсттидфыафеуегхрягдихяттфхпиггтпяхуииераоягсаеяпхтдгхуфяеодхфпыяхыгягирхысарыдтыяпорифоусгаихдеысшрпсштатшгсяяфясаттшфгдстдфхыгатпоепдуурршгтусггтдхшоифсптешпфшпфсярпуррфядетддытхгыуфхеияхдидпоеддпуушыхорффаиишосштггспаеыдеуяхдпсруфрияефаатигыошшхссысхыатехддудяуаттяффиашистышхеосепдыуеххпдрпфуитшясштагиотешсгысхопыредхугяпаутргяифшасоытхеогесдоуыяепхрффпиушрсятфгаоиетдыыгхспохдшгухядаппиеасшртсгядоояхфптхгдеагаиряыояштооееаиеястедсхтыфетафауиаоутхииддыопяппфшфпгрестррдиясдхыхфееыгхиохдигяяоышфаргуасеусхтисхырпитегфыггсыояшифяыиффгуыггяиопшдспыутофетсфыусхриохуоеяесосптхгдопыияапшштиешиафхяшеастогыфеыргууыхгпррядфидиыаттшфгифшосыыеяшодепдиурятпфрафиптшшагтдгооуеедеыдяспуррфруфясаиттгшигшссоыухепееддпууяраярффаииштсшыягсооеыдеыххдпаруфтияяфаатигтошшхссыохыпеехддупяудртяффиафгсоышггосыояиосяагырффуиршяфхохшрппдтдтысхопыусягоаеппдрятфошшасиыттхдпыифишаядпхрдфпаяыагшыыфгуахуиыяыпеасрафеухядгоиаядпдшртсуяхтпшегясаартсттрдирхдоышшихооаеидтпфтшсфтсфетргруфхуугяоыидшыахиптоияапуштигтуфхидшпяфосеыаофхдсутяшпгуишапреыооыргпоуергхпшшасертсгтдхуадтыгеихипгфоуяыдиршдауиятфииеяшофяясутхгдопыфхиоаяпафрффтишягфппшяипиетааягяшпррядфпархфыесфиыхгпуохфиияифгдгуряяпфуишрпееыагртсштифифеыдхппуоеядпдшуаоршсытысфтодсыфгпуихяитхпорягыпошштсштгшадтытдгтрфдияхсишяыдесштигтошысяииояспешоатидшяартяффаитсгыыпфеиахдоуяяпыоитрфуиршяффоешоигшиасрусяршсааоиияпаутршысхрасхышсдыхфсиагфошядтрфпиушргподяоаишаагрууопхрыфеухттфгуфгхитядпешгяяпшегдсаятадтяусхыпгшусхииыяппиыыуыхгпсроеыаурпсопеггореясфпуехсфттагыофеуигыгоидшпсусрресдрддстхдиыяфппхояшеахтдштдоыыдгыугптыхиуххгосхштпгеихшдшпоашпасирдауиятсрорфсиошыдгтхгдоптудруяхфпарифтооягсфтогыотшхдрыпхупррядфуаяиаттрфгифшофыыегходепдууршыпфтдфиитшеагуигооыеефхыдхппиррфшуфешаиыугшигшгсоугхеохеддпууярашрфффиишусшуггсооеудеуяхдсшрухрияяфадтигыошефссуасупереддоияуартяхфшгшисиышхшосродыоеххпдрдфуиушядртаяиотешдшысхспырудходяпаутугяояшадсытярогесдфуыяспхрдфпоошрсяыргаппетдшыгхспорыфыухшеаптигрпешфсаыахтахегдсуоеыаерхфхипшпсруягфааеидтутхгпгрогсиеехадтпгпорерсфыгхистршдгугяоаотехридессуырхыофррдиутяшсярсфоисшесятдгпоуердяыфхфпирафшухяссатыгеоешдфиыухрпятфдауияиаштшфсоошыфетхгдодеудууяшрпаыифтишшшастсгыоушхфдыпхупуряфяуашсатырфгисшфсыысгходепфоуряяаррафпитшшагтсгооыеысхуехппирргеуфяаааттххигшссоиыхеохехдпупярсярфхаииштсттгггоорсдеиххдппрпфриряфагтиятошшгсгыохопетрддисяуартыффоршистышяяосеодсуеяапдрпфуиршяафтфгиоаешсхысяапырефеудшраутргяпфшасиыохшогесфпуыяепхрдффиушысяыегаосетдшыгхсфирыфрухедтитугсояетсаурхтсшдддсияяыаархфхипруышыяхыоаехдтуихгашорфыиаяхгштпгиореесфыгухптршдгаяяоаутегрхтшпсуырехофесдииудепгтрфооошеахтдяпшшердпыфяшпитяфшогясаотггеоошдфрыушрпяеффруияфашыффспошысеыогдпееуфгуяшфпариффишшиасыягыаешхсдуехупдряфсуаеиаттшгиисешсыыигхадепдуудяяаурахтитшшагтсхяоыетсхыфхппдыыфяияяафуттгеигшфсоыпуаохеддппыярашрфгдроштсттгхоооеыдеихпаппрпфриряфдатигтстшгсгыохуперяддуфигартяффоышисыышггссеодыуеяяпдрпфуиршяафтагиооешсгыстшпдредхудрагфитхиыыхапягыегогесдосутпфяырффесаиегхоугястпяппеетпхрраитшдурхфртсфгутхшупхпоудиоршупсгтахессуруфяыудиыхфпеафшисхпоуядытшпптераххидетыфеыудгыияыухяоаытеехсятрдергхаофеадисптрсдтуфдутгпуихрирогердяыфядафртфшугяхаотыгепшшдспыихрпрефдауиеташргфдиошусеыягдпсеудрурхфпдрифтишягастогуоееесдыпхупррядфуаяиаттшгяисшосыыегходеадууыяяпфрафиитшшахтсгооыеесхыдхппурпфяуфяаоятагшигшсхтпиетаоеяаппфшааярффафетпгуыугхиугхоыяшоргяыдгриехтисяопяштпфетаседерррддупяухритяиоуеасгышггосыохфпрхыохшгаяеысфтрсихшотешсгсярасррффрысгяыггауаатшасиытхшогессоатядпхрдфпооодсятфгаодетдшыгяфпорыфрухяхаптуграяшфсаыохтпеегдхуошиаерхфхипшосрыягфоаеидтуехгпгрофииеехадтпгиорешсфуяхистршдгудяоаутегяидшпсуырхяофеддиууяшпгрсфоиышесятдгаоуердяыфхапирыфшугясаотыгеихшдсфыухрпятяфтуияташпршфпуеясургдртшдфтфеирфпарифтдеыыфдыхгприсрраятиашиыышыпгряасрхсртффетсфхыигаияхфиыяыпефрохееаихяипрыоуыуфошафыуогфитяроряыпиеруяеыаярпдшрпдфшшфиыхгфыхгфошхыиоыегсооеышепреуаыяхфаияяфааиоессерыпрродгпаехддупшошштяффиашостышггпфеодыурххпхрпфуирряафтагоотеесгыххоаиредхухяпаотргяифшасиытхеогегдоуыяепхрдфпиушрсятфгдоиетдшыгхспоруфеияядаптугрояшфссыихтпшегдсуояыаетрфдипшуеяыагфоаеишпаршдаурддттпдиырфрсхоаеясфыаеофсуегытргоигхияяидшпсуатрисгтшдсшппышдгтыдхыифхыипяипрфапуепагхидшрифтшрсгусаптрдяоогшишррршдауиятхшиеяыотшфсетхгдпсптдруяхфпсрифтишеяастогуоеерсдыпхусррядфусяиаытшгяисеасыыехеодеддууряяпфрафииышшсштсгооыеесхыдхппуррфяухяааиттгшигшсспыыхрохеддпууяраяргфаииштсштггсооеыдуыххдппхффаияяфааиоессерыпрродгаырпддупяухооехсоышсареоауресееяауххпдрпеисатшдттгпдшопхупфхидсаиаярпышяатшосерисяттсдтхфыуефауахирохтоиядыыхепоееаишеапяудиырфеыдгоуахдитяхоуяппишууоефаотшдптшфышпгтуихтиохяипахесдтушхггсудххигшоадтпгупыиосфыахипуршдгусшааытегяидшфсуырхяафеадиуыяшпхрсфпиыетахтдгдоуеудяыфхапиртфшиеясаптыгеихшдспыухтпяршдауияташргфсиошысетхггопеудруяхфпарофтиеягастогыоешхсфыпхупррядфуаяиаттафгисшоидыпгходепхиааршстшеситфдоагтсгооыеепхдсрпфхрафяуфяахуопяфпехгиахдаипыеддпууехгеуухяиадесеыегсооеышепреуаыуффоияяфааиреуаартсгашххпеехддсгтодштсгшупггудхоиоипеадыуехххсояыысгшяафтародсыефыыхафепсяиахяофдсосштауешсыепдртодшыыдфуягуиргсисяотпяыпошфууягсттрсотдфпессяттдшыфгтусдоугяоисетусряасрадуягаоррдттафптггеухгуиаггапгдухртдтрихуореясфудяоптршдгиряоаытехшидшпсиырхтофеадиотяшпгрдфоиушесетдхсоуердеыфхдпиртфшояясаотогеошшдспыуяыпяефдгуияуашргфсиошысеыягдофеудыуяяфпарифтишштастпгыптшхсдыпхупарядфуашпаттшфхисшфсыыегхадепдуутяяпграфоитерагтсгсоыессхыдхппуррфяугяаааттгшигшссоыыхеохеддпуояраярффаииштсетггдооеыдеыххдпприфрияяфаатигтошшгдтыохыпеагфрупяуарипшдпориааргдупгехдыуеххгтусхдоояыофеиытпеешсгыстпфиыггшуагпиххроуяыпсшуатеяшхрудоуыяефтигхпигшяисшгпарпадтяаияепорыфеаяырфаыфссуяхуаыыххтпшегхупдеысттясотшфяпгытгфоаеиштпыеоаиухихиеяхадпаефстридшяхосшефшыагсирститхфохяапгшеадршааргсутпдхыдфтутхшреггошяутххяоияаугхупеерпшшиагррарыхгырхдеидфеоаягппшгишедояяупешсдгыофдресдтрхоояфуыхгтудхиаоехсояафттагиеуахрохяиыхсоефапяшоияхуошярсгтепхешапыфсорхдштдфиодфгппгхаыяеоярппттупгессррыгптыдыыгшяпифиусхыипхгаттеоошдауеаахысяярпдфыифсуяхосяеаишяыохшрпоррфсыггорядттгфеыияшпоегадрадыхоредыуехххшисхтигштпдешпхесасфеысхопыттооудяааутагяифшафиытхшохесдпуыярпхыдфпиуштсятггаосетгшыгхсппрыфрухшеапыогрояшхсаыахтпшегдсуояыаырхффипшусруегфоаесдтурхгпсрофсаояхсштпгуорешсфысхиптиыдгусяоаытефхидшпдрырхеофехдиууяшпгрсфоиышесштдгпоурыдяыфхдпирффшугяссатыгеоешддяыухрпятфдауияиаштшфсифшыдттхгдогеудсуяхфпарифтишштастпгыоешхсдыпхупуряфруаяиаттшфгисшасыыегхогепдууряяпхрафоитшеагтсгооыеесхыфхппуррфшуфяааитпгшигшсффыахеохедяопаедсдррифоештсштгшифяытфсыыгыиедуипяяопастсгтошшгядаяшппгагфяупяуарпушшасеупхыпггосеоееатехсирдсатудусфтагиотррихысхапыридхудяпаугагяояшасиытхшогестдуыятпхргфпиошрфухегаопетдсыгхдпорифеиротаптугроашфссыишаруегддуояхаетяфдиашусидогфоаеидгушххпстапуиешшадтфгуореяффхохипуршфяусясаытеисидшссуыыхяофеадихояшаярсфоиышеахтдияоуеудяыфхапиртфшугясадтыгрихшдспыухрпяехдаусяташргфсиошысттхгдопеудруяхфпарифтиеягастогыоешхсдысхупирядфуаедастшфгистпхдоряуутяппхиуяапфрафидпырддыугдитхпиияроршырифяуфяахииоясоашдхяыыхеохифшяпишаатхеугхысхрыфешяфяыпгсуухаугяоофяупашеаыессорядятфогтаффуеастухдояяспряхпшшпуаеыафросаяффетффдуосяухятиходешсгысяаярредхудясаутргяохшасиыыхшпшесдоуыеепхрдфаиуштсятггаппетдшушхспдрыфеухядаптугтояеясаыихтпшегдсуояыаерхфгипшусрыягфоаеодтуехгпсрофыиеяхафтпгуореясфыахиптрыдгусяоигтдфхидшпяспыягпоегсурссптыдысшидшеахтдшадфытфирыфаиядыггугясаопуепсяррсфясоиягдпыдгеуххтиохдиаддоошсаягпатедоирпсгтыашесгиахтогыоеуххяоряепсрядфуашпшетшфгисшпсыыегхпгепдуутяяашрафиитршагтсгпоыерсхыгхпаоррфяияяаааттгшигшссоыыхрохехдпууяраярффаииштсштггфооеыдеыххдпприфришяфаатигтошшгсдыохыпеехддупяуартоффиашиупыыггосеошшпфшфсыетфаиршяафпыррсыефгрушхопыреессрросутедертшасиытхшогессоатотпхрдфпиуатсдтфгаоиудхдусшеиышфорршптриаттспышфсаыихтпшегрсаордаырхфдипиехсухягоаеидтирсхпсрсфыиояхадтпгухфеядяыахаптредгишдраытыфхоршпсиырхяофегрхутяшпгтефоиушедшяфгпопердуыфхапирттсугягаотогеояшдспхехрпрефддуияташыяешиошосеыргдопеуфыгрхфпгрифпишягасыагыоеетсдыфхупррядфуаяиаатшфгисшосыутгходрядууияяпфрафситшшсртсяыоыерсхыдаяпурдфяишяааиттхрфешсдеыыхыохеддпоуяраятифаошштсетгясооеыдфыххдппргфрияяфааытгтопшгссыохыпеехфаупягартяффиашистыдггппеодиуешхпдрпгширшсафтдгиотешсгуухопирефшудяпаутргсифеысиыихшагесдоияяеаардгяиушрсятфхтоиеудшуяхспорыфеирядсетугфояшфсаыихфпшршдсуаяыдерхфдидшусдыяхтоаесгиушярпстыфыиряхсгяагуооеядрыахиптршеоусяфаытрфхояшпсугххяпшеадпутяшпгрсяоиышеахтфгпоуердяыфхапирифыугясаоогггихшдспоирадшттаетиффршгаиихрухипыргдопеушрптеиауатхыишягасппедсррудяягоашшфпышгаиегаугхдоодхосшгаргдсуеддпяопярофтыхдптгхдыишуедсхыдхпгсиыггиоягпушсппеыаыдяыыхеохргриууяраятшфаииштдртггсопеыдтыххдппыуфрияягаатогтоешгдфыохыпыехдхупяуартяффиашостытггосеодыуеххпдрпфуиршеафтагиотешсгыдхопуредхудяпаутргшифшасиытхшогесдоусяепхрдуаихшрсятфеасстффртегууегпухшешиаптугрсыыхфаыххшыдххисшаофешпагяипшусраяешстрряфуохгпсроягсшефддрхфрысррдуыахиптыфяпопешпиеясорядташысхяофеахоадесаурадетрдысутдгпоурытыыфхспирифшугясдотыгеояшдсаыухипятфдауияыашрхфсиашыфетхгдоаеудтуяяепаыифтишяхастпгыоошхддыпхуптрядгуаяиаттшфгисшосыыргходепдууряяпфрсфпитшшагяегооыеесхыдхппурррфиеяааиттрастрпдсыеяхохеддпиотпаярхфаиоштсштгхфдгеыдыыххфппруфроедгаатсгторшгссыохсдоехфшупяуартшффигшистпыггосеодиуеххпдрпшаиршяафтагиотешсгпххопырефеудяпаутретифшасиыыхшогесдоиаяеаррдфсиуштсяырпроиетдшиихсппрыфрухшяештугроярусаыохтпифидсуояыссрхффипшисрытуыоаеидтиахгпдрофсшсяхафтпххорешсфыахипоапдгусяосгтегяидшптрырхтофеддиуияшпгдофоиашесетдгсоуепясыфхгпитофшухясафтыгухишдспыуяипяегдаусидашргфспшшысртхгдшуеудиуяххпарафтишпсастфгыоышхсгыпхдрдряфшуаеяаттефгояшоспдагходепфхуряшпфргтхитшшагуыгооуеесххухппаррфяуфяааиттепигшхсоыухеохеддпяеяратрффдииштсштгшсооеыдеуяхдппруфтияяфаатигтошшгдеыохыпеехуиупяуартшффиашистышггосеодыуеххпдрпфуиршяафтагиотешсгысхопырефеудяпаутргяифшасиытхшогесдоуыяепхрдфсиушрсятфгаоиетдшыххспорыфеухядаптугыотшфсаыитхпоегдсуоругпияхрышхуодепееоаеидтсетыддтхфпеиареахпояяитыфтосшсаеегстесдшрхдфыофгеяфдуххтрфгоихшыпрешадреиыярпатафшыфсоудгяртфтоохдтхштатшиоыоршдспыутрдтыифуиаягашргфсдфыифяыахяиохфисяиоиаерифтишеяшптогыоеерсдыпхуаырядфусяиаитшфгисросыыехяодеадуутяяахрафииишшсятсгооыеесхыдхапуруфяуфяааиттгшигшссоыыхтохеддпууяраяргфаиоштсштггсооеыдрыххдппруфрияяфаатсгтошшгхедгхыпеехшфсярисаттпеягпыыхфыиесяияхпосяупаягаоефаурасетыдсыофяуягфеггаифяетсгуппшфпдшесаредтяфпшесгеыдфхияхыошяштгхопгшхасроиошодгтгфыуиаетххтиххаидддугягадгаахеасптыофеифгыофсудхшифхфтефуысяеаоепсытеиаягпррягууугфихсетудсиышааыеяаегаигяраетегяфхдсутяшпгосядпхшгдеыргпоуерхшатесагядсштипдсетыгеихишхситхгптшдашшхасестифсиошыдтаигдопеудиуяхфпатпфтишяхастагыоешхфдыпхуптрядгуаяаатырфгисшссыыргходепдууряяашрафоитшшагтсгооыерсхуяхппуррфяуфяааиттгшигшфсоыыхеохеддпуиярашрффаииштсштггдооеыдеыххдппруфроеяфаатиышаяшгссыотуфпуягруфссрисгиияфоффппишдадрясгтодштсфхырауииххоидридшипфшоехпоредхудуягеудтфоешасиытшпддтфгорршыапрдфпиууохеусхыосшрпошуаеееягфпухядаппушссшессятядхртттдсуояыфяоахгоршдаеетаггрсотяддххспуегтусхшисятидяеисдтыахиптуеяуопшрпсехсигпешсуырхягаудхиихятоеягоггешпахтдгпгшысггипхяоыяфуеиаясаотыррдутффятугяыагфиогхотядасгеиошысеифеесерудттгдихырсфтишягхдохшуппредеыпхуприашрпашраиряярихшосыыешадгтагурдярпфрафифяыффпшегсоыеесхпаргсхсефиуфяааипашыатряптрыфяуорудпууярфгорхдпяфеуфшапхехсдхиыххдпптоушияяфаатдгтошшгссыохыпеехдфупяоарияффиашистуеггофеофиуеххпдрпфаиршяафыдгиотеесгутхопырефыудяпаитргоифшссиытхшпеардоуыяеаирдфаиушиеотфгаоиргдшыххсаахуфеияядсртугрояергиыихыпштодсупяыаррхгяхшшусрыяяиоаеодтирсхпсрпфыигяхадтпгдсяеясгыаяуптредгудяоапсафхидшпдыырхшофегрхутяшпгтхфоиушедшяфгпоиерддыфхапиытухугядаотугеоошдсхшшхрпшеффгуияыашргфсидофсетхгдпфеудтуяяшшерифтишеоастпгыптгясдыахуаерядфуаяффштшфхисрясыыргхофепдафсяяпфрагхитшеагтхуяоыеесхиухппирргеегяааоттхяигшссоиыпяохефдпуиярапрфгдроштсртгхоооеыдеишсфппрпфриояфаатихудишгсхыохупеехддупафартыффидшистышхтпсеодсуееяпдрафуиршясшдегиотешфхысхппыреиуудяхауттгяифшадппахшпыесдгуыяепхрдгшиушосяытгаооетдшыгхспфрыфеухядаптугрояерсаыохтпшегдсуояыапрхфдипшосрыягфоаехдтуыхгпсрогииеяхсытпгпореясфыахиптрсдгугяоаытехшидшпдшыряшофеадиутяшпгтыфоиишесштдгпоуердоыфяепиргфшигясаотдгеохшддшыухрпяеффеуияташрхфсаошысеыигдпсеудгуяяфпарифсишшыасыягыоешхсдыххупырядхуаеиаттшгтисшгсыуягходепдууояяпхрафпитшшагтсгфоыерсхыфхппуррфяуфяааоттгшигшссоыыхеохрядпууярхстшфаииштяшоешыптатдпыххдппуишаашетоееисфруеоссыохыгиишгаитяапешипыешашгспсггосеошуапрясррфосяиогыодгусапупхеотххпряиашеупхррасргдтышдпыпгуеигриухсттгхохшпаыеясерфсутодртрфеытгаефгоиояеоояупдеоппедсррпотяодфтофиурасудхоииххотшраяехдтушхгафауфыиеяхахтпгуорресфыахоптредгусяодытефхифшпсиырхеофрддиутятпгрхфоиышеахтдгпоиердрыфхапиртфшугясаотыгеошшдспыухрпяефдсуияыашргфсиошысеыягдопеудруяхфпарифоишягасешгдоешхсдоарфдттиаытагяохигфгисшояуппеяарефисхиигтосгысппыпгеитгхорхипшшуохерпсегсттшсптпфушифруугсртсфтыдаыеягпгеоудшаипшпоуеофдыяатупгтирххтихыытхтпдряаттрсхыохыпеихяяпршедотаффиашияппрядпуедстрпситрдрфгиршяафыдыыотешсгыххопырегшудяпаитргрифшасиитхшогеддоууяеаярдгсиушрсртфгдоиетдшыгхспоруфеиеядаптугрояшфсаыихтпшрядсуояыаерхфдиашустыягфоаеидтушххпсрофыиеяхадтпгуоиеясфыаутпгршдгусыфгиуягаояяоофяспишихшшшутяшпгодшхауепсряшифятдгттгшшхфхуохаиыяпифшипдшыапешстрадирхдхыдпфыпгдишсауыяпошяапршппыеосфяядтытдишагтуфхширхыиашепофсаяшсстрдсттоодеоддрагоухгсрдгшпшятфттшфиитшшфхпешппдхапхрыхапаррфяуфыафсуггфоушссоыыятхфеддпууятаярффаопштсштхгсодеыдеыхшдппруфтияягаатагтпршгссысхыптехддупяуартяфгиашастышггосеодыуеххпдрпфоиршяафтагиотеесгыдхопыредхудяпаитргяифшасиытхшогехдоуыяешгпсфпиушряшптшспгеоиухеиптрспыуптытффухгаигхеодшшоашгпуепахрдстттфшшедгушгуехфаиахуопшяпршхооеоафхддурфдгушфиыогсуаххтеяиоешшпфгыпиррсортдетыодеяаыышхридхаосяоптштуршысшрусетядррафдуыгритхшифхфутхпитсаптефдауиытфыуогигышдсетхгдсауфхтиифыиашяырисягасторадтрфдиыфгыуагоитхтяхаттшфгофоусыыегхпяепдууршепфрафоитшрагтсгоаыеесхыфхппиррфруфшдаиттгтигшдсоыыхеохеддпуияраррффаииштсштггсооеыдеушхдппруфрияяфастигыошшгссыохыперяддупяуартяффиашидяышггосффдфуеххпдупягатятафрасхроеедеысхопыоеярпушыяшышгяифшаяопушфаяепаоргсетыдтыафыурфхаохроиетдшсгрфдитифуыафеысгтпооашфсаыиетдпыхдыыгхеифхииояшгхсфыягфоауххуодяуппшопфеестрсояхшореясфохрпстрпдсруфпыыхтуихсхесфырхяофыуяпохшуптшпсштгшпахтдгпстутгеишхтииядыяиоясаотышфдитисртдгяусгыуугхишаоргфсиоышхпишяроаяуодапятпарифтаатфдпуофсуххифгыпхупртеошуаяиаттыфгисшофыыегходепдууряппфтдфиитшеагтфгооыеефхыдхппиррфшуфяхаиыугшигшгсоушхеохеддпууярашрфффиишусшуггсооеидеуяхдаярухрияяфафтигуошшхссыохыпереддусяуаытягхиашисоышхяосеодыоеххпдрффуиишясетахпотешдтысяепыредхудяпаутигяоршаспытхидтесдфуыярпхрффпиошрсяпшгаоиетдшыгхспорышуухядаптпгрояшфсахгхтпиегфяуояыаерхтяипшдсрышгфодеигтхххгаерофпиешаадупауореисфушхипдршфташяоагтефхидшасуыыхяофугдиутяшатрсфоиышехртдгпоуеодяыфхапипгфшиыяссштыгрихшдспыухапяртдауиятсрргфсояшысытхгдопродруяяупарпфтишягсфтогыодшхдеыпхупрруяруашеаттрфгидшосиыегхфяепдууряупфрафиитыыагтсгоодеесхыдхпттррфоуфшыаитугшигдесоыдхепиеддпууярфярффаиишысштггсосеыдеыххдппруфритяфаатигтшышгсфыохупеехддупуаартеффисшисуышггфпеодиуеххпдрпфуиртяафтагиоыешсгысхопыредхугшдаутргядуеисиытхшсаирхиигхооошыусшяареесуедадефдшыгхсдгупхуотяупоеяпушгшгдыыихтпшыгярппгхпсерафеддшрсдсдуогеидтушытдхупгтяршоадтпгугруегдудхсиххиояяпышафтефхидыехооряяпеягпсештфпхрсфоиыуатятхгпоуершипыегыгрофшугясхпофяуосырдфыухрпяуфядпушипуяфахшфсирафрырфпургдтххыиуяеохсдягастогыоешхсдыпурашрядфуаругяудгпыехдодштпдхепгеусяехосрсфиитшшяияягхоыеесхпсршсутгфяыаашддыпгшигшсгипшшфпаярафрфдытфартхфиушгяыехяытятояшпаяеардфрияяффсихяептерпгоххфпеехддпатгдфтофдутгыуиадхеосеодыпррисаттфииошяафтатясотифиыхрепыредхигоуаутргяошшасиытшшогесдоуыяепхтыфпиушрсятггаооетдшыгяфпорыфтухшхаптугрояшфсаыахтпшегдсуоеыаерхфхипшпсрыргфоаеидтутхгпхрофыиеяхадтпгоореясфыгхипоршдгусяофстегяидрпиуырхиофрядиияяшсяошфоигшедштдгпоуеругыфяшпирффшияясагиегеоушддоыухтпяегдаусидашргфсоишысртххяяшеудруяррпарофтпшдгастхгыоошхдсыпяофпряфууашоаттшфгисдусыыпгхпыепдоуряударафгитеуагтдгооуеедрфтхппурргыуфясаитоыпигшссоосхепяедгпятяраирфгяииеысшугопооеддеуухдапрухпаояфсштихгошшхссурхыпуаиддупяусфтяфгиашседышггосыгдыурххагхафуиашясетагиоттшсгысххпырпдхуфяпдутргяотшасгытхсогтсдоуыяспхтефпоошрфятфгапяетдаыгяшпорыфеухшраптхгроошфдяыихтппегггуояуаерхфдифогсрыягфафеидыушяешррофыиеррадтагуоипосфыахидаршдхусшауутегоидеисуырхяафуодиуфяшаирсгяиышеахтдхроуетдяыфхасиртфшиояссетыгпихшдспыухгпяегдауиятдшргфсоршысфтххпопеудруяяупатефтирягсфтогыодшхдаыпхупрыядфуашшаттсфгоршофыыегхпиепдфуряипфыафиитшфагыегопееесхыдхпаяррфдуфядаиттгшигетсоыгхеппедгпууярапрфгриишусшытгсооегдепыхдпаруфрияшшеетигтошытссыпхыпефуддуаяуаптяффиашиысышггосршдыуеххаеысфуиышясутагоотерсгыхияпыредхиыяпаитргяшпшасоытхрогесдоуырепхрдфпиишрсятфгаоиетдшыгятпорыфеяяшуаптуграхыпгпурфоишяыпяяупаистофдипшухрооясашеиафягсутодпгяиеяхадпыешаыеаспросфтхфуыугаиысутефхидупгготяыихшепшшупсефстрдссышддыафутфеидяыфхадоудгхипиоагтыгеихиахаорхсотшргхусяташргртадттдфитхяопеудрпиршдттртришягастогыоешххдипхупррядфпеяиаутшфгисшосыыеафодеддууряяпфрафиоошшсятсгооыерсхугсапуруфяишяааиттгшгешсссыыхрохегдпиодтаятшфаиаштсштггсгдеыдуыххфппрофриудоаатсгтосшгсдыохыперрттупяуартаффисшисодпггосеоффуеяяпдыхооиршрафыигиоыешсхысхдяфредхудшуауттгяошпесиытхшауесдпуыеерфрдффиушрсяыыгаафдпдшуехссярыфрухягаптаысояшфсауххтпеегдсхдяыаурхфдипшусрыушаоаесдтиыхгпдрофуиешреттпгуорртсфысхипоапдгусяосфтегяидрпытырхтофеддиуфяшпгдхфоиашеахтдгпоутрыгыфххпирпфширяссоадгеоршддяыухопяефыгуияоашрхфсиошысеоагдогеудруяхфпатпфтишштастггыоешхсдыпхупарядхуаяиаттшфгисшгсыыпгходепдууряяашрафиитшшагтсгооыеусхыдхппуррфяуфяааиттгеигшссоыыхеохеддаууяиаярффаагшосштггсфоыпгдусфыфпруфрияыгхшиохсоыфртхфуаяшусрхшсшраддтифстхгпуггиисхроуядппшшашегухессгтродыгсфыифаудстыпхгоаяаыпхуагеяаареортодрыефгеудсуухыошдоофшфпяаохшоиетдшохтедптдаатхгыхеыягрояшфяхппшепдресархсфтпдпгтипшусруеысоаеидтуыхгпсрогииеяхафтпгиореясфиахиптредгудяоаотехшидшпспырхеофеадиутяшпгрдфоиошеахтдгпоуердяыфхапируфшугясаотыгеояшдсаыухрпяефдауияыашргфсиошысетхгдофеудруяуагарифтишыххеипхдоуфтыяфиашшистхесерсдфтофдыягаухгоидхтоияфпашеаеехияедсхттофыддфыхгуиасыошхоопшдыашоагегсетиоетефыырфыыпхоррггопяхпшшппдшосихтспртдртхпиыдфиуухерпхгогяшгысхыохыпеихяяпршеуатиффиашигыпошхаеяяаырсруаурпфуируыгхуохеоошяпышрпхшхрсдхудяпсопсгяифшассытхшогрфдоуыярпхргфпиушрфятфгаооетдеыгхгпотифеухяхаптигрояшфсаыихтпыегддуояыаерхфдипшисрытгфоаеидтушхгпсрофыиешшадтпгуореясфысхипыршдгусяоаытегяидшпсуырхяофеадиуояшпгрспхипшеахтдрпсатфддсортпиртфшсхыефпыдгуртсярияшииштыешепсефаордсятадхтофдытгиуфхаиеяеохфяодшхатгфогрхстрсдеррсаеыгяисхритдоофяопиерусеудшххддыифауфатрафииттехыидххыфяепоошярпуррфядетддытхгыуфхеияхдидпиеддпуушыягрффаиишосштггспаеыдеуяхдпаруфрияефаатигыошшхссысхыатехддудяуаытяффиашистышгхосесдыуеххпдрпфуиршяафтагпотешсгысхопыррдхуфяпаутргяифшасоытхшогесдоуыяепхтяфпиушрехыигаоиетшуаяшпаррпдштудтыяфясддяшфсаыитыфоыхгеудсарусфоихфпафопоешсрегдеруфяыыдгуефауфхрояхооошыыушеаыеаирефдштодфтадхыоффиуспиеяуоршопдешатрясорфсдяффетффдуосяияятиофифыугясаопышуапеороыфхрпяефхсагрысошуссышшфсетхгдпсптдруяхфпсрифтишеяастогуоееесдыпхусррядфусяиаытшгеисеасыыехеодесдууряяпфрафииышшсштсгооыеесхыдхппуррфяухяааиттгшигшсспыыхрохеддпууяраяргфаииштсштггсооеыдуыххдппгсшпияяфаапоессерысхяфопшяфаыягфесгситяуошшыопераоешсыефдятуфртсфсуоапуыхоифдууештпршаапггастшдхышфршасиыдгдияхгоояшияхиургиадеидятодяытпотрфаияггидяиягфпухядапииеасшртперидфхгродсуояыхиошхаотшааееиаыршсшдыуыхгпсроеыаурпсоыегуореядхсехиптршфшусяоаыытфхидшасуыихяофеагиутяшпхрсфпиыштахыггпоуеудяыгхапиртфшугясадтыгрихшдспыухрпяегдаусяташргфсиошысетхгдопеодруяхфпарифтиеягадтогыоешхсдыпхипррядфуаяиаттшфгихшосыыеатпрепдуурршгтусггтдхшоигггдоыеесхадефдярхушахяааиттредытддхыпаиерааитгаоидыоыягаяшсахерсфтесстхдиыагяуфгыиыяетрххпешиуяяааяртсштрдоердфышгтыифпрсфиисшрпрхиасшхирросртдфттдгяетдыишхроыдояепыредхдштсдттггтудхшуххсиспиесдоуыштхирдфпиушисятфгаппетдшыххспарыфеухедаптугтояшгсаыохтарегдсусяыаырхфдипшусрыяхшоаеодтушхгпсрофыиряхсятпгуореясфыахиптршдгуфяоаытефхидшпсиырхшофеадиутяшпгрдфоиышеахтдгпоуердтыфхапиашфыугясаопышуапеопеаыхрпяефшсагрысотепяядпрыффрияагугхиопятпоядауесатросятрдпыудгыггседгоисяятпгхпшшеасряапхааттодеырффуфдхуухдиаяопршпыдешпдессиххаятддсышфууггаииятопхяпшштпгшгугррдрруаагшииштсшихреспрдпархфытгтяфрияяфххопяеодееааехафрпспфыупяуарыерыиашистыыггосеофиуеххпфрпфииршяафуагиотеесгыдхопорегшудяпаптргеифшасиытхшогехдоууяепхрдфпиушрсштфггоиетдшыгхспорыфеухядастугрояшфсаыихыпшехдсуояыаерхфдиашусрыягфоаеидтушяепсрофыеишрадтпгуфрытгиууегпгршдгусыфгиуягаояяоофяспишиоыгоутяшпгодшхауепсряшифятддттффуыффушгхисдеигшшпуфхапшхсдхсдарспиыодрыпдяисфршдсетхгдсауфхтиифыиашяфдишягасыаыроешхсдысхупрряфхуаяиаытшфхисшосыиегходеадуутяяашрагпитшшсштсгсоыеесхыдхппуртфяияяааиттгшигшссоыыхеохегдпууяраярффаиоштсетггсооеыдеыххфппруфрияяфаатигтош");local i=(315-0xd8)local l=38 local o=d;local e={}e={[(0x2c+-43)]=function()local a,e,d,x=y(A,o,o+P);o=o+O;l=(l+(i*O))%r;return(((x+l-(i)+n*(O*v))%n)*((v*J)^v))+(((d+l-(i*v)+n*(v^P))%r)*(n*r))+(((e+l-(i*P)+J)%r)*n)+((a+l-(i*O)+J)%r);end,[(121+-0x77)]=function(e,e,e)local e=y(A,o,o);o=o+D;l=(l+(i))%r;return((e+l-(i)+J)%n);end,[(0x147/109)]=function()local e,d=y(A,o,o+v);l=(l+(i*v))%r;o=o+v;return(((d+l-(i)+n*(v*O))%n)*r)+((e+l-(i*v)+r*(v^P))%n);end,[(70-0x42)]=function(o,e,l)if l then local e=(o/v^(e-d))%v^((l-D)-(e-d)+D);return e-e%d;else local e=v^(e-D);return(o%(e+e)>=e)and d or m;end;end,[((-0x58+483)/0x4f)]=function()local l=e[(17+(24-0x28))]();local a=e[(0x77-118)]();local x=d;local o=(e[(716/0xb3)](a,D,p+O)*(v^(p*v)))+l;local l=e[(60+-0x38)](a,21,31);local e=((-d)^e[(0x6c+-104)](a,32));if(l==m)then if(o==L)then return e*m;else l=D;x=L;end;elseif(l==(n*(v^P))-D)then return(o==m)and(e*(D/L))or(e*(m/L));end;return z(e,l-((r*(O))-d))*(x+(o/(v^R)));end,[(0x5f4/254)]=function(a,x,x)local x;if(not a)then a=e[(18+-0x11)]();if(a==m)then return'';end;end;x=G(A,o,o+a-d);o=o+a;local e=''for o=D,#x do e=Q(e,Y((y(G(x,o,o))+l)%r))l=(l+i)%n end return e;end}local function A(...)return{...},W('#',...)end local function J()local c={};local x={};local l={};local i={c,x,nil,l};local o={}local a=(220/0xa)local a={[(0x25+-37)]=(function(l)return not(#l==e[(-26+0x1c)]())end),[(0xc9/67)]=(function(l)return e[(-82+0x57)]()end),[(44+-0x28)]=(function(l)return e[(0x192/67)]()end),[(0x3d/61)]=(function(l)local d=e[(83-0x4d)]()local l=''local e=1 for o=1,#d do e=(e+a)%r l=Q(l,Y((y(d:sub(o,o))+e)%n))end return l end)};local l=e[(27-0x1a)]()for l=1,l do local e=e[(0x40-62)]();local d;local e=a[e%(0xc18/172)];o[l]=e and e({});end;for n=1,e[(0x38-55)]()do local l=e[(84/0x2a)]();if(e[(0x360/216)](l,d,D)==L)then local r=e[(74-0x46)](l,v,P);local a=e[(-101+(-0x41+170))](l,O,v+O);local l={e[(-0x10+19)](),e[(126-0x7b)](),nil,nil};local x={[(125-0x7d)]=function()l[M]=e[(123-0x78)]();l[g]=e[(79-0x4c)]();end,[(-0x38+57)]=function()l[N]=e[(175/0xaf)]();end,[(0x98/76)]=function()l[M]=e[(44-0x2b)]()-(v^p)end,[(122+-0x77)]=function()l[M]=e[(0x3f-62)]()-(v^p)l[j]=e[(747/0xf9)]();end};x[r]();if(e[(592/0x94)](a,D,d)==D)then l[b]=o[l[_]]end if(e[(0x17+-19)](a,v,v)==d)then l[w]=o[l[t]]end if(e[(0x164/89)](a,P,P)==D)then l[u]=o[l[u]]end c[n]=l;end end;for e=D,e[(-94+0x5f)]()do x[e-D]=J();end;i[3]=e[(462/(0x244-349))]();return i;end;local function L(e,m,O)local n=e[v];local r=e[P];local e=e[d];return(function(...)local P=A local o={};local p={};local Y=W('#',...)-D;local l=d;local y=n;local n=e;local r=r;local A={};local J={...};local e=d e*=-1 local i=e;for e=0,Y do if(e>=r)then A[e-r]=J[e+D];else o[e]=J[e+d];end;end;local J=Y-r+d local e;local r;while true do e=n[l];r=e[(28-0x1b)];a=(2196983)while(0xb9+-89)>=r do a-= a a=(5003055)while r<=(0x90-97)do a-= a a=(4994210)while r<=(0x6e-87)do a-= a a=(4195048)while r<=(308/0x1c)do a-= a a=(5070752)while r<=(-121+0x7e)do a-= a a=(3081360)while r<=(-0x41+67)do a-= a a=(1518816)while(0x0/246)>=r do a-= a local r;local h;local i;local a;o[e[f]]=o[e[t]][e[j]];l=l+d;e=n[l];a=e[f];i=o[e[w]];o[a+1]=i;o[a]=i[e[g]];l=l+d;e=n[l];o[e[c]]=o[e[w]][e[u]];l=l+d;e=n[l];o[e[b]]=o[e[M]][e[s]];l=l+d;e=n[l];a=e[c]h={o[a](x(o,a+1,e[k]))};r=0;for e=a,e[u]do r=r+d;o[e]=h[r];end l=l+d;e=n[l];if o[e[c]]then l=l+d;else l=e[k];end;break;end while(a)/((93184/0xe0))==3651 do a=(11395724)while(0x3e-61)<r do a-= a local l=e[f]local n={o[l](x(o,l+1,i))};local a=0;for e=l,e[j]do a=a+d;o[e]=n[a];end break end while 3169==(a)/((0x1c8f-3715))do if(o[e[c]]<o[e[j]])then l=l+D;else l=e[C];end;break end;break;end break;end while 888==(a)/((0xde5+-87))do a=(3647392)while r<=(0x2b-40)do a-= a local r;local b,M;local c;local a;o[e[h]]=O[e[w]];l=l+d;e=n[l];o[e[_]]=O[e[C]];l=l+d;e=n[l];a=e[U];c=o[e[t]];o[a+1]=c;o[a]=c[e[g]];l=l+d;e=n[l];o[e[_]]=e[k];l=l+d;e=n[l];o[e[h]]=(e[t]~=0);l=l+d;e=n[l];a=e[f]b,M=P(o[a](x(o,a+1,e[t])))i=M+a-1 r=0;for e=a,i do r=r+d;o[e]=b[r];end;l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[f]]();l=l+d;e=n[l];do return end;break;end while(a)/((0x444+-28))==3428 do a=(3943710)while(-0x1d+33)<r do a-= a local a=e[f]local n={o[a](o[a+1])};local l=0;for e=a,e[S]do l=l+d;o[e]=n[l];end break end while 3022==(a)/(((-0x2a+1347)/0x1))do local x=y[e[N]];local r;local d={};r=K({},{__index=function(l,e)local e=d[e];return e[1][e[2]];end,__newindex=function(o,e,l)local e=d[e]e[1][e[2]]=l;end;});for a=1,e[u]do l=l+D;local e=n[l];if e[(-36+0x25)]==68 then d[a-1]={o,e[N]};else d[a-1]={m,e[t]};end;p[#p+1]=d;end;o[e[_]]=L(x,r,O);break end;break;end break;end break;end while(a)/((0x66340/124))==1502 do a=(10702592)while(-55+0x3f)>=r do a-= a a=(8616200)while r<=(61+-0x37)do a-= a l=e[M];break;end while 3215==(a)/((-110+0xae6))do a=(788160)while((-32+0x51)-42)<r do a-= a local r;local i;local a;a=e[h]o[a](x(o,a+D,e[N]))l=l+d;e=n[l];o[e[b]]=o[e[t]];l=l+d;e=n[l];o[e[_]]=o[e[M]];l=l+d;e=n[l];o[e[h]]={};l=l+d;e=n[l];o[e[c]]=o[e[C]];l=l+d;e=n[l];o[e[_]]=e[C];l=l+d;e=n[l];o[e[b]]=o[e[C]];l=l+d;e=n[l];o[e[f]]=O[e[w]];l=l+d;e=n[l];a=e[c]o[a]=o[a](o[a+D])l=l+d;e=n[l];i=e[N];r=o[i]for e=i+1,e[u]do r=r..o[e];end;o[e[U]]=r;l=l+d;e=n[l];o[e[U]][e[t]]=o[e[S]];l=l+d;e=n[l];o[e[c]]={};l=l+d;e=n[l];o[e[_]][e[k]]=e[u];l=l+d;e=n[l];o[e[h]][e[t]]=o[e[g]];l=l+d;e=n[l];a=e[b]o[a]=o[a](o[a+D])l=l+d;e=n[l];o[e[b]]=o[e[k]][e[g]];l=l+d;e=n[l];a=e[b]o[a]=o[a](o[a+D])l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break end while(a)/((0x2b8-376))==2463 do local n=e[h];local r=e[B];local a=n+2 local n={o[n](o[n+1],o[a])};for e=1,r do o[a+e]=n[e];end;local n=n[1]if n then o[a]=n l=e[N];else l=l+d;end;break end;break;end break;end while(a)/((0xda40/18))==3448 do a=(9153540)while r<=(1440/0xa0)do a-= a local r;local w,D;local h;local a;o[e[b]]=O[e[k]];l=l+d;e=n[l];o[e[b]]=O[e[M]];l=l+d;e=n[l];a=e[U];h=o[e[t]];o[a+1]=h;o[a]=h[e[s]];l=l+d;e=n[l];o[e[c]]=e[k];l=l+d;e=n[l];o[e[f]]=(e[N]~=0);l=l+d;e=n[l];a=e[f]w,D=P(o[a](x(o,a+1,e[N])))i=D+a-1 r=0;for e=a,i do r=r+d;o[e]=w[r];end;l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[_]]();l=l+d;e=n[l];do return end;break;end while 2277==(a)/((4108+(-0x82+42)))do a=(3473288)while(54-0x2c)<r do a-= a local l=e[c]o[l](x(o,l+D,e[w]))break end while(a)/((0x244f0/110))==2569 do local r;local C,D;local w;local a;o[e[h]]=O[e[k]];l=l+d;e=n[l];o[e[c]]=O[e[M]];l=l+d;e=n[l];a=e[U];w=o[e[N]];o[a+1]=w;o[a]=w[e[B]];l=l+d;e=n[l];o[e[f]]=e[t];l=l+d;e=n[l];a=e[_]C,D=P(o[a](x(o,a+1,e[N])))i=D+a-1 r=0;for e=a,i do r=r+d;o[e]=C[r];end;l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[_]]();l=l+d;e=n[l];do return end;break end;break;end break;end break;end break;end while(a)/((0x864+-25))==1976 do a=(473688)while(3859/0xe3)>=r do a-= a a=(10064596)while r<=(-49+0x3f)do a-= a a=(786352)while r<=(168/0xe)do a-= a o[e[c]]=L(y[e[M]],nil,O);break;end while 272==(a)/((439432/0x98))do a=(8983746)while(103+-0x5a)<r do a-= a local r;local a;o[e[f]][e[M]]=e[s];l=l+d;e=n[l];o[e[_]][e[w]]=e[u];l=l+d;e=n[l];o[e[_]][e[M]]=e[j];l=l+d;e=n[l];a=e[h]o[a](x(o,a+D,e[w]))l=l+d;e=n[l];o[e[_]]=O[e[M]];l=l+d;e=n[l];o[e[c]]=e[w];l=l+d;e=n[l];a=e[U]o[a](o[a+D])l=l+d;e=n[l];o[e[h]]=O[e[w]];l=l+d;e=n[l];o[e[U]]=o[e[M]][e[S]];l=l+d;e=n[l];a=e[c];r=o[e[C]];o[a+1]=r;o[a]=r[e[g]];break end while(a)/((245673/0x51))==2962 do local r;local f,k;local w;local a;a=e[h]o[a]=o[a](x(o,a+d,e[C]))l=l+d;e=n[l];o[e[U]]=o[e[M]];l=l+d;e=n[l];o[e[c]]=O[e[N]];l=l+d;e=n[l];o[e[b]]=O[e[t]];l=l+d;e=n[l];a=e[c];w=o[e[M]];o[a+1]=w;o[a]=w[e[s]];l=l+d;e=n[l];o[e[U]]=e[t];l=l+d;e=n[l];o[e[_]]=(e[N]~=0);l=l+d;e=n[l];a=e[b]f,k=P(o[a](x(o,a+1,e[N])))i=k+a-1 r=0;for e=a,i do r=r+d;o[e]=f[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[_]]();l=l+d;e=n[l];do return end;break end;break;end break;end while 3964==(a)/((563658/0xde))do a=(1685682)while r<=(0x3e-47)do a-= a local l=e[U]local n={o[l](o[l+1])};local a=0;for e=l,e[s]do a=a+d;o[e]=n[a];end break;end while(a)/((712+-0x49))==2638 do a=(3739806)while(106-0x5a)<r do a-= a local r;local N,u;local D;local a;o[e[f]]=O[e[C]];l=l+d;e=n[l];o[e[c]]=O[e[t]];l=l+d;e=n[l];o[e[_]]=o[e[w]][e[S]];l=l+d;e=n[l];o[e[_]]=e[M];l=l+d;e=n[l];o[e[_]]=e[w];l=l+d;e=n[l];o[e[b]]=e[t];l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];o[e[U]][e[t]]=o[e[j]];l=l+d;e=n[l];o[e[f]]=O[e[k]];l=l+d;e=n[l];o[e[f]]=O[e[C]];l=l+d;e=n[l];a=e[_];D=o[e[w]];o[a+1]=D;o[a]=D[e[B]];l=l+d;e=n[l];o[e[f]]=e[M];l=l+d;e=n[l];a=e[_]N,u=P(o[a](x(o,a+1,e[C])))i=u+a-1 r=0;for e=a,i do r=r+d;o[e]=N[r];end;l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[h]]();l=l+d;e=n[l];do return end;break end while(a)/((5381-0xaa3))==1407 do local d=o[e[u]];if d then l=l+D;else o[e[c]]=d;l=e[t];end;break end;break;end break;end break;end while(a)/((0x1b96c/146))==612 do a=(789612)while r<=(340/0x11)do a-= a a=(30072)while(0x92-128)>=r do a-= a local e=e[c];i=e+J-1;for l=e,i do local e=A[l-e];o[l]=e;end;break;end while(a)/((0x84-111))==1432 do a=(5274514)while(4788/0xfc)<r do a-= a local e=e[c];local l=o[e];for e=e+1,i do V(l,o[e])end;break end while(a)/((839846/0xef))==1501 do local r;local a;O[e[t]]=o[e[c]];l=l+d;e=n[l];o[e[b]]=O[e[C]];l=l+d;e=n[l];o[e[b]]=e[k];l=l+d;e=n[l];a=e[f]o[a](o[a+D])l=l+d;e=n[l];o[e[_]]=O[e[t]];l=l+d;e=n[l];o[e[c]]=o[e[k]][e[s]];l=l+d;e=n[l];a=e[f];r=o[e[C]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[_]]=e[w];l=l+d;e=n[l];o[e[f]]={};l=l+d;e=n[l];o[e[c]][e[t]]=e[u];break end;break;end break;end while(a)/((0x320-452))==2269 do a=(3690625)while r<=(3213/0x99)do a-= a local e=e[U]o[e](o[e+D])break;end while 3125==(a)/((2452-0x4f7))do a=(4924260)while(0x85-111)<r do a-= a local r;local D,t;local U;local a;o[e[h]]=O[e[N]];l=l+d;e=n[l];o[e[h]]=O[e[k]];l=l+d;e=n[l];a=e[b];U=o[e[M]];o[a+1]=U;o[a]=U[e[g]];l=l+d;e=n[l];o[e[c]]=e[M];l=l+d;e=n[l];a=e[c]D,t=P(o[a](x(o,a+1,e[w])))i=t+a-1 r=0;for e=a,i do r=r+d;o[e]=D[r];end;l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[f]]();l=l+d;e=n[l];do return end;break end while(a)/((32331/0xd))==1980 do local r;local t,k;local c;local a;o[e[h]]=O[e[C]];l=l+d;e=n[l];o[e[b]]=O[e[w]];l=l+d;e=n[l];a=e[f];c=o[e[w]];o[a+1]=c;o[a]=c[e[B]];l=l+d;e=n[l];o[e[f]]=e[w];l=l+d;e=n[l];a=e[f]t,k=P(o[a](x(o,a+1,e[N])))i=k+a-1 r=0;for e=a,i do r=r+d;o[e]=t[r];end;l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];a=e[b]o[a]=o[a]()l=l+d;e=n[l];do return end;break end;break;end break;end break;end break;end break;end while 1874==(a)/((0x82c71/201))do a=(2831614)while((3780/0x1b)/0x4)>=r do a-= a a=(4909323)while(0x152f/187)>=r do a-= a a=(683910)while(99+-0x49)>=r do a-= a a=(725109)while(0x15a8/(11088/0x30))>=r do a-= a if(o[e[U]]~=o[e[u]])then l=l+D;else l=e[w];end;break;end while 3311==(a)/((0x201-294))do a=(6763526)while r>(134-(239-0x82))do a-= a local r;local a;a=e[f]o[a](x(o,a+D,e[t]))l=l+d;e=n[l];a=e[h];r=o[e[N]];o[a+1]=r;o[a]=r[e[u]];l=l+d;e=n[l];o[e[h]]=e[t];l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,e[w]))l=l+d;e=n[l];a=e[c];r=o[e[N]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[c]]=e[C];l=l+d;e=n[l];o[e[U]]=e[k];break end while(a)/((0x1e238/52))==2849 do local e={o,e};e[D][e[v][b]]=e[d][e[v][s]]+e[D][e[v][M]];break end;break;end break;end while 298==(a)/(((99639720/0xc9)/216))do a=(4134060)while(138-0x6f)>=r do a-= a o[e[h]]=o[e[C]][o[e[u]]];break;end while(a)/((-68+0x5d8))==2895 do a=(147459)while r>(0x1570/196)do a-= a local l=e[c];do return o[l](x(o,l+1,e[k]))end;break end while(a)/((0xc4-157))==3781 do local r;local U,f;local b;local a;o[e[_]]=O[e[C]];l=l+d;e=n[l];o[e[c]]=O[e[N]];l=l+d;e=n[l];a=e[c];b=o[e[k]];o[a+1]=b;o[a]=b[e[u]];l=l+d;e=n[l];o[e[h]]=e[N];l=l+d;e=n[l];a=e[_]U,f=P(o[a](x(o,a+1,e[w])))i=f+a-1 r=0;for e=a,i do r=r+d;o[e]=U[r];end;l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[_]]();l=l+d;e=n[l];do return end;break end;break;end break;end break;end while(a)/((-117+0x984))==2117 do a=(121968)while r<=(5120/0xa0)do a-= a a=(1161972)while r<=(-0x1b+57)do a-= a local r;local U,k;local w;local a;o[e[b]]=O[e[C]];l=l+d;e=n[l];o[e[b]]=O[e[C]];l=l+d;e=n[l];a=e[f];w=o[e[M]];o[a+1]=w;o[a]=w[e[S]];l=l+d;e=n[l];o[e[f]]=e[N];l=l+d;e=n[l];o[e[c]]=(e[M]~=0);l=l+d;e=n[l];a=e[c]U,k=P(o[a](x(o,a+1,e[C])))i=k+a-1 r=0;for e=a,i do r=r+d;o[e]=U[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[f]]();l=l+d;e=n[l];do return end;break;end while 2226==(a)/((-100+0x26e))do a=(269360)while(107+-0x4c)<r do a-= a local e=e[c]o[e]=o[e](o[e+D])break end while(a)/((-32+0x1e7))==592 do local r;local C,D;local f;local a;o[e[c]]=O[e[k]];l=l+d;e=n[l];o[e[_]]=O[e[N]];l=l+d;e=n[l];a=e[h];f=o[e[k]];o[a+1]=f;o[a]=f[e[B]];l=l+d;e=n[l];o[e[h]]=e[w];l=l+d;e=n[l];o[e[_]]=(e[M]~=0);l=l+d;e=n[l];a=e[U]C,D=P(o[a](x(o,a+1,e[t])))i=D+a-1 r=0;for e=a,i do r=r+d;o[e]=C[r];end;l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break end;break;end break;end while(a)/((-58+(0x27f0/72)))==1452 do a=(2980152)while r<=(0x91-112)do a-= a local d=e[t];local l=o[d]for e=d+1,e[u]do l=l..o[e];end;o[e[U]]=l;break;end while 3402==(a)/((0x6fb-(1874-0x3c3)))do a=(2201290)while r>(7548/0xde)do a-= a local d=e[b];local n=o[d+2];local a=o[d]+n;o[d]=a;if(n>0)then if(a<=o[d+1])then l=e[w];o[d+3]=a;end elseif(a>=o[d+1])then l=e[C];o[d+3]=a;end break end while(a)/((-0x2a+2912))==767 do local a=e[c];local r=e[B];local n=a+2 local a={o[a](o[a+1],o[n])};for e=1,r do o[n+e]=a[e];end;local a=a[1]if a then o[n]=a l=e[M];else l=l+d;end;break end;break;end break;end break;end break;end while 1874==(a)/((3123-0x64c))do a=(6411696)while r<=(0x9e-117)do a-= a a=(1980750)while r<=(160-0x7a)do a-= a a=(247695)while r<=(0x1adc/191)do a-= a local r;local k,_;local w;local a;o[e[b]]=O[e[t]];l=l+d;e=n[l];o[e[h]]=O[e[M]];l=l+d;e=n[l];a=e[f];w=o[e[C]];o[a+1]=w;o[a]=w[e[S]];l=l+d;e=n[l];o[e[c]]=e[N];l=l+d;e=n[l];a=e[f]k,_=P(o[a](x(o,a+1,e[N])))i=_+a-1 r=0;for e=a,i do r=r+d;o[e]=k[r];end;l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break;end while(a)/((44484/0x84))==735 do a=(873828)while r>((396-0xd0)-0x97)do a-= a local r;local M,D;local U;local a;o[e[b]]=O[e[t]];l=l+d;e=n[l];o[e[b]]=O[e[w]];l=l+d;e=n[l];a=e[f];U=o[e[k]];o[a+1]=U;o[a]=U[e[B]];l=l+d;e=n[l];o[e[f]]=e[C];l=l+d;e=n[l];a=e[_]M,D=P(o[a](x(o,a+1,e[k])))i=D+a-1 r=0;for e=a,i do r=r+d;o[e]=M[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break end while 348==(a)/((0x8cffa/230))do local r;local k,f;local b;local a;o[e[h]]=O[e[C]];l=l+d;e=n[l];o[e[_]]=O[e[C]];l=l+d;e=n[l];a=e[_];b=o[e[t]];o[a+1]=b;o[a]=b[e[g]];l=l+d;e=n[l];o[e[c]]=e[N];l=l+d;e=n[l];o[e[c]]=(e[M]~=0);l=l+d;e=n[l];a=e[c]k,f=P(o[a](x(o,a+1,e[w])))i=f+a-1 r=0;for e=a,i do r=r+d;o[e]=k[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break end;break;end break;end while(a)/((0x4ab-625))==3475 do a=(1288784)while r<=((0x199-247)-123)do a-= a local r;local a;a=e[_]o[a](x(o,a+D,e[C]))l=l+d;e=n[l];a=e[_];r=o[e[k]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[h]]=e[k];l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[c];r=o[e[N]];o[a+1]=r;o[a]=r[e[s]];l=l+d;e=n[l];o[e[U]]=e[k];l=l+d;e=n[l];o[e[h]]=e[w];break;end while 518==(a)/((0x64398/165))do a=(5431260)while(9360/(0x10a+-32))<r do a-= a local r;local _,M;local h;local a;o[e[b]]=O[e[w]];l=l+d;e=n[l];o[e[c]]=O[e[w]];l=l+d;e=n[l];a=e[b];h=o[e[w]];o[a+1]=h;o[a]=h[e[S]];l=l+d;e=n[l];o[e[U]]=e[t];l=l+d;e=n[l];a=e[U]_,M=P(o[a](x(o,a+1,e[k])))i=M+a-1 r=0;for e=a,i do r=r+d;o[e]=_[r];end;l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[b]]();l=l+d;e=n[l];do return end;break end while(a)/((-23+0xae3))==1965 do o[e[h]]={};break end;break;end break;end break;end while 1797==(a)/((0x1c00-(-0x4d+3677)))do a=(1030827)while(4620/0x69)>=r do a-= a a=(737892)while r<=(-0x6f+153)do a-= a local r;local a;a=e[U]o[a](x(o,a+D,e[k]))l=l+d;e=n[l];a=e[c];r=o[e[k]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[h]]=e[N];l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,e[M]))l=l+d;e=n[l];a=e[_];r=o[e[M]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[_]]=e[M];l=l+d;e=n[l];o[e[U]]=e[w];break;end while(a)/((0x17d6c/158))==1194 do a=(10236564)while r>(-49+0x5c)do a-= a local l=e[U]o[l]=o[l](x(o,l+d,e[k]))break end while 2691==(a)/((0x43cbc/73))do o[e[h]]=o[e[M]]%e[u];break end;break;end break;end while(a)/((600-0x157))==4011 do a=(106920)while(10350/0xe6)>=r do a-= a if not o[e[c]]then l=l+D;else l=e[w];end;break;end while(a)/((0x7bc0/240))==810 do a=(5203262)while(-58+0x68)<r do a-= a local r;local a;a=e[b]o[a](x(o,a+D,e[t]))l=l+d;e=n[l];a=e[_];r=o[e[t]];o[a+1]=r;o[a]=r[e[s]];l=l+d;e=n[l];o[e[_]]=e[t];l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[c];r=o[e[w]];o[a+1]=r;o[a]=r[e[s]];l=l+d;e=n[l];o[e[f]]=e[N];l=l+d;e=n[l];o[e[c]]=e[w];break end while(a)/((0x904+-71))==2326 do local e=e[h];do return o[e](x(o,e+1,i))end;break end;break;end break;end break;end break;end break;end break;end while(a)/((0x11a4e/22))==1523 do a=(1156500)while r<=(158-0x57)do a-= a a=(11515658)while(0x2556/162)>=r do a-= a a=(5904815)while(2862/0x36)>=r do a-= a a=(221924)while r<=(120-0x46)do a-= a a=(1012700)while(75+-0x1b)>=r do a-= a do return end;break;end while 1300==(a)/((0x649-830))do a=(4963815)while r>(189-(0x18b-255))do a-= a local r;local w,_;local h;local a;o[e[c]]=O[e[t]];l=l+d;e=n[l];o[e[c]]=O[e[M]];l=l+d;e=n[l];a=e[U];h=o[e[M]];o[a+1]=h;o[a]=h[e[S]];l=l+d;e=n[l];o[e[b]]=e[k];l=l+d;e=n[l];a=e[f]w,_=P(o[a](x(o,a+1,e[t])))i=_+a-1 r=0;for e=a,i do r=r+d;o[e]=w[r];end;l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[b]]();l=l+d;e=n[l];do return end;break end while(a)/((2260+-0x13))==2215 do local r;local a;a=e[b]o[a](x(o,a+D,e[C]))l=l+d;e=n[l];a=e[b];r=o[e[k]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[U]]=e[k];l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,e[t]))l=l+d;e=n[l];a=e[_];r=o[e[N]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[f]]=e[w];l=l+d;e=n[l];o[e[f]]=e[w];break end;break;end break;end while 436==(a)/((1095-0x24a))do a=(3212055)while(0xad-122)>=r do a-= a o[e[c]]();break;end while 3605==(a)/((205821/0xe7))do a=(2330748)while(0x1f48/154)<r do a-= a local d=e[U];local a=o[d]local n=o[d+2];if(n>0)then if(a>o[d+1])then l=e[w];else o[d+3]=a;end elseif(a<o[d+1])then l=e[w];else o[d+3]=a;end break end while(a)/((24192/0x20))==3083 do local l=e[_]local a,e=P(o[l](x(o,l+1,e[w])))i=e+l-1 local e=0;for l=l,i do e=e+d;o[l]=a[e];end;break end;break;end break;end break;end while(a)/((0x27bb1/109))==3955 do a=(47160)while r<=(0x63+(2-0x2d))do a-= a a=(9814100)while r<=(229-0xaf)do a-= a local r=y[e[M]];local a;local d={};a=K({},{__index=function(l,e)local e=d[e];return e[1][e[2]];end,__newindex=function(o,e,l)local e=d[e]e[1][e[2]]=l;end;});for a=1,e[B]do l=l+D;local e=n[l];if e[(78-0x4d)]==68 then d[a-1]={o,e[M]};else d[a-1]={m,e[N]};end;p[#p+1]=d;end;o[e[f]]=L(r,a,O);break;end while 3910==(a)/(((2637+-0x58)+-0x27))do a=(518064)while r>(236-(0x24c4/52))do a-= a if(o[e[c]]<=e[u])then l=l+D;else l=e[t];end;break end while 3012==(a)/((32852/0xbf))do if(o[e[f]]<o[e[B]])then l=l+D;else l=e[C];end;break end;break;end break;end while 72==(a)/((166370/0xfe))do a=(6017252)while r<=(170-0x71)do a-= a local r;local t,M;local b;local a;o[e[h]]=O[e[w]];l=l+d;e=n[l];o[e[h]]=O[e[N]];l=l+d;e=n[l];a=e[h];b=o[e[k]];o[a+1]=b;o[a]=b[e[s]];l=l+d;e=n[l];o[e[_]]=e[N];l=l+d;e=n[l];a=e[f]t,M=P(o[a](x(o,a+1,e[C])))i=M+a-1 r=0;for e=a,i do r=r+d;o[e]=t[r];end;l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break;end while 1654==(a)/((7385-0xea3))do a=(1119492)while(162-0x68)<r do a-= a local r;local c,b;local a;o[e[U]]=o[e[t]];l=l+d;e=n[l];o[e[_]]=O[e[N]];l=l+d;e=n[l];o[e[_]]=o[e[w]];l=l+d;e=n[l];a=e[U]c,b=P(o[a](o[a+D]))i=b+a-d r=0;for e=a,i do r=r+d;o[e]=c[r];end;l=l+d;e=n[l];a=e[f];do return o[a](x(o,a+1,i))end;l=l+d;e=n[l];a=e[f];do return x(o,a,i)end;l=l+d;e=n[l];do return end;break end while 396==(a)/((5746-0xb67))do o[e[U]]=o[e[t]]%e[S];break end;break;end break;end break;end break;end while 3182==(a)/((0xb43e4/204))do a=(3401496)while(255-(488-0x12a))>=r do a-= a a=(769790)while r<=(0x972/39)do a-= a a=(5734020)while r<=((387-0xd8)-111)do a-= a local e=e[b];do return x(o,e,i)end;break;end while 2270==(a)/((0x62ac/10))do a=(9240078)while(-0x5a+151)<r do a-= a local a;o[e[b]]=o[e[N]][e[S]];l=l+d;e=n[l];o[e[h]]=m[e[w]];l=l+d;e=n[l];o[e[U]]=o[e[N]][e[u]];l=l+d;e=n[l];o[e[U]]=m[e[w]];l=l+d;e=n[l];o[e[f]]=o[e[N]][e[g]];l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,e[C]))l=l+d;e=n[l];o[e[U]]=O[e[t]];l=l+d;e=n[l];o[e[U]]=o[e[t]][e[s]];l=l+d;e=n[l];o[e[U]]=o[e[N]][e[B]];l=l+d;e=n[l];o[e[c]]=o[e[M]][e[s]];l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];o[e[f]]=o[e[k]]-o[e[j]];l=l+d;e=n[l];o[e[U]]=o[e[C]][e[s]];l=l+d;e=n[l];if(o[e[c]]<o[e[j]])then l=l+D;else l=e[C];end;break end while(a)/((2740+-0x47))==3462 do local e=e[h];local l=o[e];for e=e+1,i do V(l,o[e])end;break end;break;end break;end while 245==(a)/(((0x195ca60/184)/46))do a=(3289175)while((-0xaa+50)+0xb7)>=r do a-= a o[e[U]]=m[e[w]];break;end while 883==(a)/((886550/0xee))do a=(11324740)while(0x2400/144)<r do a-= a local r;local a;o[e[c]]=e[C];l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,e[N]))l=l+d;e=n[l];a=e[U];r=o[e[k]];o[a+1]=r;o[a]=r[e[s]];l=l+d;e=n[l];o[e[h]]=e[N];l=l+d;e=n[l];o[e[c]]=e[t];break end while(a)/((753480/0xea))==3517 do local r;local a;a=e[c]o[a](x(o,a+D,e[k]))l=l+d;e=n[l];a=e[h];r=o[e[k]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[_]]=e[t];l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[U];r=o[e[w]];o[a+1]=r;o[a]=r[e[S]];l=l+d;e=n[l];o[e[b]]=e[w];l=l+d;e=n[l];o[e[_]]=e[N];break end;break;end break;end break;end while(a)/((421974/0xc5))==1588 do a=(79680)while r<=(-0x11+85)do a-= a a=(496947)while(-64+0x82)>=r do a-= a if(o[e[U]]==e[u])then l=l+D;else l=e[k];end;break;end while 407==(a)/((0x9e1-1308))do a=(5983308)while(-42+0x6d)<r do a-= a o[e[h]]=o[e[t]];break end while 3756==(a)/(((0x20440/40)-1711))do local r;local a;a=e[f]o[a](x(o,a+D,e[C]))l=l+d;e=n[l];a=e[c];r=o[e[t]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[_]]=e[M];l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[b];r=o[e[M]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[U]]=e[N];l=l+d;e=n[l];o[e[b]]=e[t];break end;break;end break;end while 64==(a)/((0x52a+-77))do a=(1782023)while(264-0xc3)>=r do a-= a local r;local a;o[e[h]]=O[e[N]];l=l+d;e=n[l];a=e[U];r=o[e[C]];o[a+1]=r;o[a]=r[e[u]];l=l+d;e=n[l];o[e[c]]=e[w];l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,e[N]))l=l+d;e=n[l];o[e[h]]=o[e[M]][e[S]];l=l+d;e=n[l];o[e[U]]=O[e[w]];l=l+d;e=n[l];a=e[f];r=o[e[C]];o[a+1]=r;o[a]=r[e[u]];l=l+d;e=n[l];o[e[f]]=e[M];l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,e[M]))l=l+d;e=n[l];o[e[f]]=o[e[k]][e[u]];l=l+d;e=n[l];o[e[f]]=o[e[M]][e[B]];break;end while 1667==(a)/((0x46fd/17))do a=(1031560)while(0x96+-80)<r do a-= a local r;local i;local a;a=e[b]o[a](x(o,a+D,e[t]))l=l+d;e=n[l];o[e[_]]=o[e[w]];l=l+d;e=n[l];o[e[U]]=o[e[w]];l=l+d;e=n[l];o[e[b]]={};l=l+d;e=n[l];o[e[f]]=o[e[t]];l=l+d;e=n[l];o[e[f]]=e[k];l=l+d;e=n[l];o[e[b]]=o[e[k]];l=l+d;e=n[l];o[e[b]]=O[e[N]];l=l+d;e=n[l];a=e[b]o[a]=o[a](o[a+D])l=l+d;e=n[l];i=e[C];r=o[i]for e=i+1,e[s]do r=r..o[e];end;o[e[c]]=r;l=l+d;e=n[l];o[e[h]][e[M]]=o[e[S]];l=l+d;e=n[l];o[e[f]]={};l=l+d;e=n[l];o[e[_]][e[w]]=e[s];l=l+d;e=n[l];o[e[h]][e[N]]=o[e[u]];l=l+d;e=n[l];a=e[_]o[a]=o[a](o[a+D])l=l+d;e=n[l];o[e[h]]=o[e[w]][e[u]];l=l+d;e=n[l];a=e[b]o[a]=o[a](o[a+D])l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break end while 328==(a)/((0xcb1+-104))do o[e[c]]=e[k];break end;break;end break;end break;end break;end break;end while 2313==(a)/((589+-0x59))do a=(3863868)while(290-0xcf)>=r do a-= a a=(8157835)while r<=(203+-0x7e)do a-= a a=(2617648)while r<=(-33+0x6b)do a-= a a=(1797504)while(98+-0x1a)>=r do a-= a o[e[h]]=(e[N]~=0);break;end while(a)/(((0x699a6-216318)/179))==1488 do a=(2742285)while r>(0x70+-39)do a-= a local r;local a;a=e[h]o[a](x(o,a+D,e[k]))l=l+d;e=n[l];a=e[b];r=o[e[w]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[U]]=e[M];l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,e[M]))l=l+d;e=n[l];a=e[b];r=o[e[M]];o[a+1]=r;o[a]=r[e[B]];l=l+d;e=n[l];o[e[b]]=e[t];l=l+d;e=n[l];o[e[b]]=e[k];break end while 2009==(a)/(((32555250/0x6a)/225))do local d=e[t];local l=o[d]for e=d+1,e[B]do l=l..o[e];end;o[e[b]]=l;break end;break;end break;end while 2354==(a)/((1184+-0x48))do a=(690846)while r<=(0xb4+-105)do a-= a if(o[e[b]]~=o[e[u]])then l=l+D;else l=e[M];end;break;end while(a)/((0x3cf-533))==1563 do a=(8921984)while(196+-0x78)<r do a-= a local a=e[_]local n={o[a](x(o,a+1,e[w]))};local l=0;for e=a,e[S]do l=l+d;o[e]=n[l];end break end while(a)/((0x4ff40/119))==3242 do O[e[M]]=o[e[_]];break end;break;end break;end break;end while(a)/((0x1e1f-3890))==2135 do a=(868457)while(0xc4-116)>=r do a-= a a=(11113024)while(-62+0x8c)>=r do a-= a m[e[M]]=o[e[h]];break;end while 2812==(a)/((956384/0xf2))do a=(1342584)while r>(141+-0x3e)do a-= a local r;local a;a=e[f]o[a](x(o,a+D,e[w]))l=l+d;e=n[l];a=e[f];r=o[e[k]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[b]]=e[M];l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,e[t]))l=l+d;e=n[l];a=e[U];r=o[e[M]];o[a+1]=r;o[a]=r[e[B]];l=l+d;e=n[l];o[e[f]]=e[N];l=l+d;e=n[l];o[e[_]]=e[N];break end while 696==(a)/((0xf4e-1989))do o[e[b]]=o[e[k]][e[B]];break end;break;end break;end while(a)/((-50+0x29d))==1403 do a=(307971)while(0xc5+-116)>=r do a-= a o[e[f]]=#o[e[C]];break;end while 1801==(a)/((31635/0xb9))do a=(64736)while(-118+0xc8)<r do a-= a local e=e[b]o[e]=o[e](x(o,e+d,i))break end while 4046==(a)/((736/0x2e))do local l=e[U];do return o[l](x(o,l+1,e[M]))end;break end;break;end break;end break;end break;end while(a)/((293896/(0x1cb0/54)))==1788 do a=(9709944)while r<=(18779/0xd3)do a-= a a=(889807)while(-0x78+206)>=r do a-= a a=(2616600)while r<=(16044/0xbf)do a-= a local _;local r;local i;local a;o[e[h]]=O[e[C]];l=l+d;e=n[l];o[e[f]]=o[e[M]][e[j]];l=l+d;e=n[l];a=e[h];i=o[e[N]];o[a+1]=i;o[a]=i[e[S]];l=l+d;e=n[l];o[e[U]]=o[e[M]];l=l+d;e=n[l];o[e[f]]=o[e[t]];l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[U];i=o[e[M]];o[a+1]=i;o[a]=i[e[S]];l=l+d;e=n[l];a=e[b]o[a]=o[a](o[a+D])l=l+d;e=n[l];r={o,e};r[D][r[v][U]]=r[d][r[v][S]]+r[D][r[v][t]];l=l+d;e=n[l];o[e[h]]=o[e[w]]%e[s];l=l+d;e=n[l];a=e[b]o[a]=o[a](o[a+D])l=l+d;e=n[l];i=e[C];_=o[i]for e=i+1,e[B]do _=_..o[e];end;o[e[U]]=_;l=l+d;e=n[l];r={o,e};r[D][r[v][c]]=r[d][r[v][j]]+r[D][r[v][M]];l=l+d;e=n[l];o[e[h]]=o[e[t]]%e[u];break;end while 1960==(a)/((0xae4-(0x8de5/25)))do a=(2354432)while r>(14790/0xae)do a-= a local r;local D,_;local t;local a;o[e[b]]=O[e[w]];l=l+d;e=n[l];o[e[f]]=O[e[M]];l=l+d;e=n[l];a=e[U];t=o[e[C]];o[a+1]=t;o[a]=t[e[u]];l=l+d;e=n[l];o[e[f]]=e[k];l=l+d;e=n[l];a=e[c]D,_=P(o[a](x(o,a+1,e[N])))i=_+a-1 r=0;for e=a,i do r=r+d;o[e]=D[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break end while 1088==(a)/((0x1d0ec/55))do local d=e[_];local n=o[d+2];local a=o[d]+n;o[d]=a;if(n>0)then if(a<=o[d+1])then l=e[k];o[d+3]=a;end elseif(a>=o[d+1])then l=e[w];o[d+3]=a;end break end;break;end break;end while 1769==(a)/((-87+0x24e))do a=(4274667)while r<=(3828/0x2c)do a-= a local r;local w,U;local c;local a;o[e[h]]=O[e[N]];l=l+d;e=n[l];o[e[b]]=O[e[k]];l=l+d;e=n[l];a=e[h];c=o[e[N]];o[a+1]=c;o[a]=c[e[B]];l=l+d;e=n[l];o[e[_]]=e[C];l=l+d;e=n[l];o[e[b]]=(e[k]~=0);l=l+d;e=n[l];a=e[h]w,U=P(o[a](x(o,a+1,e[M])))i=U+a-1 r=0;for e=a,i do r=r+d;o[e]=w[r];end;l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[f]]();l=l+d;e=n[l];do return end;break;end while(a)/((0x1dc9-3872))==1139 do a=(4463130)while r>(277-(23247/0x7b))do a-= a for e=e[h],e[k]do o[e]=nil;end;break end while 1855==(a)/((158796/0x42))do local r;local h,t;local b;local a;o[e[c]]=O[e[w]];l=l+d;e=n[l];o[e[U]]=O[e[k]];l=l+d;e=n[l];a=e[c];b=o[e[N]];o[a+1]=b;o[a]=b[e[s]];l=l+d;e=n[l];o[e[f]]=e[N];l=l+d;e=n[l];o[e[c]]=(e[M]~=0);l=l+d;e=n[l];a=e[_]h,t=P(o[a](x(o,a+1,e[k])))i=t+a-1 r=0;for e=a,i do r=r+d;o[e]=h[r];end;l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[f]]();l=l+d;e=n[l];do return end;break end;break;end break;end break;end while 2526==(a)/((0x1e080/32))do a=(7510056)while(0xd6-(-32+0x9a))>=r do a-= a a=(164696)while(186+-0x60)>=r do a-= a o[e[f]][o[e[k]]]=o[e[B]];break;end while(a)/((0x154-204))==1211 do a=(6421954)while(18018/0xc6)<r do a-= a local l=e[U]o[l](x(o,l+D,e[k]))break end while(a)/((193116/0x72))==3791 do do return end;break end;break;end break;end while(a)/((231312/(334-0xd4)))==3961 do a=(643824)while(214+-0x78)>=r do a-= a a=(6352906)while(0x1686/62)<r do a-= a local r;local f,t;local U;local a;o[e[h]]=O[e[N]];l=l+d;e=n[l];o[e[b]]=O[e[k]];l=l+d;e=n[l];a=e[h];U=o[e[N]];o[a+1]=U;o[a]=U[e[j]];l=l+d;e=n[l];o[e[h]]=e[k];l=l+d;e=n[l];a=e[c]f,t=P(o[a](x(o,a+1,e[w])))i=t+a-1 r=0;for e=a,i do r=r+d;o[e]=f[r];end;l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[h]]();l=l+d;e=n[l];do return end;break end while 2422==(a)/((448533/0xab))do local d=o[e[B]];if d then l=l+D;else o[e[c]]=d;l=e[t];end;break end;break;end while(a)/((0x28e-382))==2367 do a=(1243068)while(280-0xb9)<r do a-= a local r;local a;a=e[c]o[a](x(o,a+D,e[k]))l=l+d;e=n[l];a=e[_];r=o[e[w]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[_]]=e[w];l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,e[t]))l=l+d;e=n[l];a=e[b];r=o[e[M]];o[a+1]=r;o[a]=r[e[B]];l=l+d;e=n[l];o[e[f]]=e[t];l=l+d;e=n[l];o[e[_]]=e[M];break end while(a)/((877-0x1c3))==2918 do local d=e[h];local a=o[d]local n=o[d+2];if(n>0)then if(a>o[d+1])then l=e[N];else o[d+3]=a;end elseif(a<o[d+1])then l=e[t];else o[d+3]=a;end break end;break;end break;end break;end break;end break;end break;end break;end while(a)/((2800-0x5a3))==1619 do a=(10220805)while(15552/0x6c)>=r do a-= a a=(8252080)while(-96+(0x22c-340))>=r do a-= a a=(1277212)while r<=((39170-0x4ca6)/181)do a-= a a=(2692608)while r<=(175+-0x49)do a-= a a=(3660260)while r<=(0x7f+-28)do a-= a a=(169694)while r<=(0x9f+-62)do a-= a local r;local _,k;local w;local a;o[e[U]]=O[e[C]];l=l+d;e=n[l];o[e[f]]=O[e[N]];l=l+d;e=n[l];a=e[b];w=o[e[M]];o[a+1]=w;o[a]=w[e[S]];l=l+d;e=n[l];o[e[c]]=e[t];l=l+d;e=n[l];a=e[f]_,k=P(o[a](x(o,a+1,e[t])))i=k+a-1 r=0;for e=a,i do r=r+d;o[e]=_[r];end;l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[h]]();l=l+d;e=n[l];do return end;break;end while(a)/((0x18e47/143))==238 do a=(3816967)while(0xf3-145)<r do a-= a if o[e[f]]then l=l+d;else l=e[t];end;break end while 2609==(a)/(((0x9ef4f/219)-1510))do local r;local t,f;local h;local a;o[e[U]]=O[e[k]];l=l+d;e=n[l];o[e[_]]=O[e[C]];l=l+d;e=n[l];a=e[c];h=o[e[C]];o[a+1]=h;o[a]=h[e[g]];l=l+d;e=n[l];o[e[b]]=e[w];l=l+d;e=n[l];a=e[U]t,f=P(o[a](x(o,a+1,e[C])))i=f+a-1 r=0;for e=a,i do r=r+d;o[e]=t[r];end;l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break end;break;end break;end while(a)/((395970/0xc9))==1858 do a=(13820772)while r<=(0x3458/134)do a-= a local e=e[b]o[e]=o[e]()break;end while 3444==(a)/((-49+0xfde))do a=(3014768)while(22321/0xdd)<r do a-= a o[e[U]]=#o[e[t]];break end while 3572==(a)/((0x6d0-900))do o[e[h]]();break end;break;end break;end break;end while 1753==(a)/((53760/(0x56+-51)))do a=(2368736)while(0x5a3c/220)>=r do a-= a a=(4392153)while r<=(0x13f-216)do a-= a o[e[b]][e[M]]=o[e[B]];break;end while 1217==(a)/((7318-(-0x45+3778)))do a=(9016000)while r>(13208/0x7f)do a-= a o[e[f]]=O[e[N]];break end while(a)/((0x38540/103))==4025 do local r;local D,M;local k;local a;o[e[b]]=O[e[t]];l=l+d;e=n[l];o[e[U]]=O[e[C]];l=l+d;e=n[l];a=e[f];k=o[e[N]];o[a+1]=k;o[a]=k[e[g]];l=l+d;e=n[l];o[e[_]]=e[t];l=l+d;e=n[l];o[e[c]]=(e[w]~=0);l=l+d;e=n[l];a=e[c]D,M=P(o[a](x(o,a+1,e[t])))i=M+a-1 r=0;for e=a,i do r=r+d;o[e]=D[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break end;break;end break;end while(a)/((1290+-0x1a))==1874 do a=(1476160)while(232-0x7e)>=r do a-= a local a;a=e[b]o[a](x(o,a+D,e[w]))l=l+d;e=n[l];for e=e[U],e[k]do o[e]=nil;end;l=l+d;e=n[l];o[e[c]]=O[e[N]];l=l+d;e=n[l];o[e[h]]=O[e[C]];l=l+d;e=n[l];o[e[U]]=e[t];break;end while(a)/((0x14d3-2695))==560 do a=(2567448)while r>(12198/0x72)do a-= a local l=e[b]local n={o[l](x(o,l+1,i))};local a=0;for e=l,e[S]do a=a+d;o[e]=n[a];end break end while 2743==(a)/((0x3f9+-81))do local O;local r;local _,t;local a;a=e[b]_,t=P(o[a](x(o,a+1,e[w])))i=t+a-1 r=0;for e=a,i do r=r+d;o[e]=_[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];a=e[b]o[a]=o[a]()l=l+d;e=n[l];o[e[c]]=o[e[M]][e[B]];l=l+d;e=n[l];o[e[b]]=e[k];l=l+d;e=n[l];o[e[U]]=e[C];l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[f];O=o[e[w]];o[a+1]=O;o[a]=O[e[j]];l=l+d;e=n[l];o[e[h]]=e[C];l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,e[C]))break end;break;end break;end break;end break;end while 538==(a)/((0x12cd-2439))do a=(74214)while r<=(-33+0x93)do a-= a a=(6696624)while(6660/0x3c)>=r do a-= a a=(10150824)while r<=(15587/0x8f)do a-= a local e=e[U];do return x(o,e,i)end;break;end while 2801==(a)/((7365-0xe9d))do a=(8836608)while(-0x6a+216)<r do a-= a o[e[h]]=o[e[w]]-o[e[j]];break end while 3138==(a)/((208384/0x4a))do local r;local k,M;local b;local a;o[e[c]]=O[e[t]];l=l+d;e=n[l];o[e[_]]=O[e[t]];l=l+d;e=n[l];a=e[h];b=o[e[w]];o[a+1]=b;o[a]=b[e[s]];l=l+d;e=n[l];o[e[h]]=e[t];l=l+d;e=n[l];a=e[f]k,M=P(o[a](x(o,a+1,e[w])))i=M+a-1 r=0;for e=a,i do r=r+d;o[e]=k[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break end;break;end break;end while 3459==(a)/((-85+0x7e5))do a=(5415987)while r<=(-0x6d+221)do a-= a local r;local a;a=e[f]o[a](x(o,a+D,e[t]))l=l+d;e=n[l];a=e[b];r=o[e[w]];o[a+1]=r;o[a]=r[e[S]];l=l+d;e=n[l];o[e[U]]=e[M];l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,e[N]))l=l+d;e=n[l];a=e[U];r=o[e[N]];o[a+1]=r;o[a]=r[e[s]];l=l+d;e=n[l];o[e[_]]=e[C];l=l+d;e=n[l];o[e[h]]=e[N];break;end while(a)/((6323-(0xc79+-17)))==1721 do a=(2852696)while r>(0x52fc/188)do a-= a local r;local a;a=e[h]o[a](x(o,a+D,e[M]))l=l+d;e=n[l];a=e[h];r=o[e[w]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[f]]=e[t];l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,e[N]))l=l+d;e=n[l];a=e[_];r=o[e[N]];o[a+1]=r;o[a]=r[e[S]];l=l+d;e=n[l];o[e[U]]=e[C];l=l+d;e=n[l];o[e[b]]=e[t];break end while 1694==(a)/((3460-0x6f0))do o[e[_]]=e[M];break end;break;end break;end break;end while 1302==(a)/((-28+(0xfa-165)))do a=(12351966)while(0x2cca/(0xaa+-72))>=r do a-= a a=(8237820)while r<=(345/0x3)do a-= a local r;local a;a=e[f]o[a](x(o,a+D,e[t]))l=l+d;e=n[l];a=e[c];r=o[e[k]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[b]]=e[w];l=l+d;e=n[l];o[e[c]]=e[w];l=l+d;e=n[l];o[e[_]]=e[w];l=l+d;e=n[l];o[e[h]]=e[M];break;end while(a)/((0x1d9b-3814))==2188 do a=(1122368)while r>(26448/0xe4)do a-= a local r;local M,h;local c;local a;o[e[_]]=O[e[t]];l=l+d;e=n[l];o[e[U]]=O[e[k]];l=l+d;e=n[l];a=e[f];c=o[e[C]];o[a+1]=c;o[a]=c[e[u]];l=l+d;e=n[l];o[e[b]]=e[t];l=l+d;e=n[l];a=e[_]M,h=P(o[a](x(o,a+1,e[w])))i=h+a-1 r=0;for e=a,i do r=r+d;o[e]=M[r];end;l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[_]]();l=l+d;e=n[l];do return end;break end while(a)/((1745-0x391))==1349 do local e={o,e};e[D][e[v][c]]=e[d][e[v][u]]+e[D][e[v][t]];break end;break;end break;end while(a)/((348864/0x60))==3399 do a=(517215)while r<=(0xf5+-127)do a-= a local r;local t,k;local U;local a;o[e[c]]=O[e[M]];l=l+d;e=n[l];o[e[_]]=O[e[M]];l=l+d;e=n[l];a=e[h];U=o[e[N]];o[a+1]=U;o[a]=U[e[B]];l=l+d;e=n[l];o[e[b]]=e[M];l=l+d;e=n[l];a=e[f]t,k=P(o[a](x(o,a+1,e[w])))i=k+a-1 r=0;for e=a,i do r=r+d;o[e]=t[r];end;l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[f]]();l=l+d;e=n[l];do return end;break;end while 2523==(a)/((0x1d8-267))do a=(1304472)while(0x27fa/86)<r do a-= a l=e[w];break end while 2938==(a)/((-0x7f+571))do o[e[b]][e[C]]=e[B];break end;break;end break;end break;end break;end break;end while(a)/((4693-0x947))==3560 do a=(1207500)while(0x4d58/(0x1af4/46))>=r do a-= a a=(1264588)while r<=(3906/0x1f)do a-= a a=(597624)while r<=(-64+0xbb)do a-= a a=(11661930)while r<=(0x3a23/123)do a-= a local r;local a;o[e[h]]=O[e[M]];l=l+d;e=n[l];o[e[c]]=O[e[w]];l=l+d;e=n[l];a=e[h];r=o[e[N]];o[a+1]=r;o[a]=r[e[B]];l=l+d;e=n[l];o[e[b]]=e[C];l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,e[C]))l=l+d;e=n[l];o[e[f]]=o[e[t]][e[S]];l=l+d;e=n[l];o[e[f]]=o[e[w]][e[u]];l=l+d;e=n[l];a=e[h]o[a]=o[a](o[a+D])l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break;end while(a)/((0x1d6d-3788))==3114 do a=(4278040)while r>(0x68d8/(0xb70c/213))do a-= a o[e[U]][e[t]]=e[s];break end while 2470==(a)/((235552/0x88))do o[e[c]]=o[e[C]][o[e[S]]];break end;break;end break;end while 444==(a)/(((5537-0xafe)-1377))do a=(3828197)while(0x6f68/230)>=r do a-= a local l=e[_];local d=o[e[t]];o[l+1]=d;o[l]=d[e[j]];break;end while 1733==(a)/((55225/0x19))do a=(12947562)while(0x3b15/121)<r do a-= a local r;local a;a=e[h]o[a](x(o,a+D,e[w]))l=l+d;e=n[l];a=e[c];r=o[e[M]];o[a+1]=r;o[a]=r[e[u]];l=l+d;e=n[l];o[e[c]]=e[t];l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,e[N]))l=l+d;e=n[l];a=e[f];r=o[e[M]];o[a+1]=r;o[a]=r[e[S]];l=l+d;e=n[l];o[e[c]]=e[M];l=l+d;e=n[l];o[e[f]]=e[k];break end while 3558==(a)/((0xb292f/201))do local a;local r;local U,B;local N;local a;o[e[h]]=O[e[t]];l=l+d;e=n[l];o[e[c]]=o[e[w]][e[S]];l=l+d;e=n[l];for e=e[b],e[C]do o[e]=nil;end;l=l+d;e=n[l];o[e[c]]=O[e[k]];l=l+d;e=n[l];o[e[_]]=m[e[M]];l=l+d;e=n[l];a=e[f];N=o[e[M]];o[a+1]=N;o[a]=N[e[s]];l=l+d;e=n[l];a=e[b]U,B=P(o[a](o[a+D]))i=B+a-d r=0;for e=a,i do r=r+d;o[e]=U[r];end;l=l+d;e=n[l];a=e[c]U={o[a](x(o,a+1,i))};r=0;for e=a,e[s]do r=r+d;o[e]=U[r];end l=l+d;e=n[l];l=e[k];break end;break;end break;end break;end while(a)/((162929/0x97))==1172 do a=(626644)while r<=(336-0xcf)do a-= a a=(1836972)while r<=(201+-0x4a)do a-= a local r;local a;a=e[U]o[a](x(o,a+D,e[C]))l=l+d;e=n[l];a=e[c];r=o[e[N]];o[a+1]=r;o[a]=r[e[B]];l=l+d;e=n[l];o[e[U]]=e[k];l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[c];r=o[e[k]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[b]]=e[w];l=l+d;e=n[l];o[e[U]]=e[C];break;end while 1971==(a)/((0x409+-101))do a=(2688309)while r>(344-0xd8)do a-= a local r;local a;a=e[_]o[a](x(o,a+D,e[C]))l=l+d;e=n[l];a=e[_];r=o[e[w]];o[a+1]=r;o[a]=r[e[u]];l=l+d;e=n[l];o[e[b]]=e[k];l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[h];r=o[e[N]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[c]]=e[N];l=l+d;e=n[l];o[e[c]]=e[w];break end while(a)/((3241+-0x52))==851 do if(o[e[U]]~=e[S])then l=l+D;else l=e[C];end;break end;break;end break;end while 3821==(a)/((0x11d+-121))do a=(7549655)while r<=(19370/0x95)do a-= a local r;local w,f;local h;local a;o[e[_]]=O[e[k]];l=l+d;e=n[l];o[e[c]]=O[e[M]];l=l+d;e=n[l];a=e[c];h=o[e[M]];o[a+1]=h;o[a]=h[e[g]];l=l+d;e=n[l];o[e[_]]=e[C];l=l+d;e=n[l];a=e[_]w,f=P(o[a](x(o,a+1,e[C])))i=f+a-1 r=0;for e=a,i do r=r+d;o[e]=w[r];end;l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[b]]();l=l+d;e=n[l];do return end;break;end while 2791==(a)/(((0x2bed4c4/132)/0x81))do a=(13053208)while(0xbc+-57)<r do a-= a local e=e[_]o[e]=o[e](o[e+D])break end while(a)/((0xd39d0/218))==3283 do local x;local r;local a;o[e[U]]=e[M];l=l+d;e=n[l];o[e[f]]=e[M];l=l+d;e=n[l];o[e[h]]=#o[e[N]];l=l+d;e=n[l];o[e[h]]=e[N];l=l+d;e=n[l];a=e[h];r=o[a]x=o[a+2];if(x>0)then if(r>o[a+1])then l=e[w];else o[a+3]=r;end elseif(r<o[a+1])then l=e[w];else o[a+3]=r;end break end;break;end break;end break;end break;end while(a)/((3583+-0x53))==345 do a=(636185)while r<=(319-0xb5)do a-= a a=(268468)while r<=(307-0xac)do a-= a a=(317538)while r<=(177+-0x2c)do a-= a o[e[U]]=O[e[w]];l=l+d;e=n[l];o[e[_]]=o[e[k]][e[s]];l=l+d;e=n[l];o[e[h]]=o[e[N]][e[j]];l=l+d;e=n[l];o[e[h]]=o[e[k]][e[S]];l=l+d;e=n[l];o[e[b]]=o[e[w]][e[s]];l=l+d;e=n[l];o[e[c]][e[M]]=o[e[B]];l=l+d;e=n[l];do return end;break;end while(a)/((823-0x1d5))==897 do a=(1777245)while(0x2636/73)<r do a-= a local a;o[e[b]]=o[e[M]];l=l+d;e=n[l];o[e[b]]=o[e[N]];l=l+d;e=n[l];a=e[f];do return o[a](x(o,a+1,e[t]))end;l=l+d;e=n[l];a=e[U];do return x(o,a,i)end;l=l+d;e=n[l];do return end;break end while(a)/((0x4b5+-118))==1635 do do return o[e[f]]end break end;break;end break;end while(a)/((119501/0x49))==164 do a=(10554632)while r<=(0x5588/(349-0xbc))do a-= a local r;local w,D;local h;local a;o[e[c]]=O[e[k]];l=l+d;e=n[l];o[e[_]]=O[e[t]];l=l+d;e=n[l];a=e[b];h=o[e[M]];o[a+1]=h;o[a]=h[e[s]];l=l+d;e=n[l];o[e[b]]=e[C];l=l+d;e=n[l];a=e[f]w,D=P(o[a](x(o,a+1,e[C])))i=D+a-1 r=0;for e=a,i do r=r+d;o[e]=w[r];end;l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break;end while(a)/((6605-0xcf7))==3212 do a=(2561288)while r>(0x148-191)do a-= a o[e[U]]={};break end while(a)/((0x2a6+-49))==4072 do local r;local f,M;local b;local a;o[e[h]]=O[e[t]];l=l+d;e=n[l];o[e[c]]=O[e[t]];l=l+d;e=n[l];a=e[_];b=o[e[k]];o[a+1]=b;o[a]=b[e[S]];l=l+d;e=n[l];o[e[c]]=e[t];l=l+d;e=n[l];a=e[h]f,M=P(o[a](x(o,a+1,e[w])))i=M+a-1 r=0;for e=a,i do r=r+d;o[e]=f[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break end;break;end break;end break;end while(a)/((-50+0x20b))==1345 do a=(1417857)while r<=(206+-0x41)do a-= a a=(4079865)while(369-0xe6)>=r do a-= a local a;o[e[U]]=o[e[w]][e[g]];l=l+d;e=n[l];o[e[h]]=o[e[k]][e[s]];l=l+d;e=n[l];o[e[f]]=o[e[k]][e[g]];l=l+d;e=n[l];o[e[b]]=o[e[w]][e[B]];l=l+d;e=n[l];o[e[_]]=o[e[t]][e[S]];l=l+d;e=n[l];o[e[c]]=o[e[t]][e[B]];l=l+d;e=n[l];o[e[_]]=o[e[C]][e[B]];l=l+d;e=n[l];o[e[h]]=o[e[k]][e[S]];l=l+d;e=n[l];a=e[h]o[a](o[a+D])break;end while 1695==(a)/((0x5a7f6/154))do a=(6848842)while r>(0x3250/92)do a-= a o[e[U]]=o[e[t]]-o[e[g]];break end while 1694==(a)/((0x1fc5-4090))do local r;local D,f;local w;local a;o[e[b]]=O[e[k]];l=l+d;e=n[l];o[e[c]]=O[e[M]];l=l+d;e=n[l];a=e[_];w=o[e[t]];o[a+1]=w;o[a]=w[e[s]];l=l+d;e=n[l];o[e[U]]=e[C];l=l+d;e=n[l];a=e[c]D,f=P(o[a](x(o,a+1,e[k])))i=f+a-1 r=0;for e=a,i do r=r+d;o[e]=D[r];end;l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[h]]();l=l+d;e=n[l];do return end;break end;break;end break;end while 631==(a)/((0x8dd+-22))do a=(10448632)while(-41+0xb7)>=r do a-= a local a;o[e[U]]=O[e[t]];l=l+d;e=n[l];a=e[b]o[a]=o[a]()l=l+d;e=n[l];o[e[h]][e[N]]=e[S];l=l+d;e=n[l];o[e[f]]=O[e[k]];l=l+d;e=n[l];o[e[_]]=O[e[w]];l=l+d;e=n[l];if o[e[f]]then l=l+d;else l=e[N];end;break;end while(a)/((0x1481-2655))==4028 do a=(4053825)while(0xd5+-70)<r do a-= a local e=e[b]o[e]=o[e]()break end while(a)/((-0x69+2040))==2095 do o[e[_]]=(e[t]~=0);break end;break;end break;end break;end break;end break;end break;end while(a)/((6512-0xcf5))==3199 do a=(616165)while(202+-0x22)>=r do a-= a a=(7531566)while(0x112+-118)>=r do a-= a a=(2545949)while(3300/0x16)>=r do a-= a a=(1301616)while(0xe1+-78)>=r do a-= a a=(356378)while r<=(-0x40+209)do a-= a local r;local U,w;local h;local a;o[e[f]]=O[e[t]];l=l+d;e=n[l];o[e[b]]=O[e[t]];l=l+d;e=n[l];a=e[c];h=o[e[k]];o[a+1]=h;o[a]=h[e[j]];l=l+d;e=n[l];o[e[b]]=e[M];l=l+d;e=n[l];a=e[c]U,w=P(o[a](x(o,a+1,e[C])))i=w+a-1 r=0;for e=a,i do r=r+d;o[e]=U[r];end;l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break;end while(a)/((0x2d6-392))==1067 do a=(109473)while r>(0x103+-113)do a-= a local a;o[e[b]]=O[e[w]];l=l+d;e=n[l];a=e[c]o[a]=o[a]()l=l+d;e=n[l];o[e[h]][e[t]]=e[B];l=l+d;e=n[l];o[e[b]]=O[e[C]];l=l+d;e=n[l];o[e[c]]=O[e[k]];l=l+d;e=n[l];if not o[e[c]]then l=l+D;else l=e[C];end;break end while(a)/((1278+-0x4b))==91 do if(o[e[b]]<=e[s])then l=l+D;else l=e[M];end;break end;break;end break;end while(a)/((-73+0xc91))==414 do a=(5236632)while r<=((-0x45+391)-0xae)do a-= a o[e[b]]=m[e[w]];break;end while(a)/(((-11832/0xae)+0x64a))==3396 do a=(4049850)while r>(-110+0x103)do a-= a if not o[e[f]]then l=l+D;else l=e[w];end;break end while 1862==(a)/((2265+-0x5a))do local r;local D,w;local h;local a;o[e[_]]=O[e[M]];l=l+d;e=n[l];o[e[_]]=O[e[M]];l=l+d;e=n[l];a=e[c];h=o[e[k]];o[a+1]=h;o[a]=h[e[u]];l=l+d;e=n[l];o[e[f]]=e[t];l=l+d;e=n[l];o[e[f]]=(e[M]~=0);l=l+d;e=n[l];a=e[U]D,w=P(o[a](x(o,a+1,e[N])))i=w+a-1 r=0;for e=a,i do r=r+d;o[e]=D[r];end;l=l+d;e=n[l];a=e[U]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[b]]();l=l+d;e=n[l];do return end;break end;break;end break;end break;end while(a)/((0xa6875/(583-0x154)))==907 do a=(868786)while r<=(-0x4d+230)do a-= a a=(5575872)while((-77+0x412f)/0x6e)>=r do a-= a local e=e[h]local a,l=P(o[e](o[e+D]))i=l+e-d local l=0;for e=e,i do l=l+d;o[e]=a[l];end;break;end while(a)/((109482/0x47))==3616 do a=(9343400)while(-90+0xf2)<r do a-= a local e=e[_]o[e](o[e+D])break end while(a)/((0xa6810/250))==3425 do local r;local M,_;local k;local a;o[e[c]]=O[e[w]];l=l+d;e=n[l];o[e[b]]=O[e[N]];l=l+d;e=n[l];a=e[h];k=o[e[t]];o[a+1]=k;o[a]=k[e[s]];l=l+d;e=n[l];o[e[f]]=e[N];l=l+d;e=n[l];a=e[U]M,_=P(o[a](x(o,a+1,e[t])))i=_+a-1 r=0;for e=a,i do r=r+d;o[e]=M[r];end;l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[h]]();l=l+d;e=n[l];do return end;break end;break;end break;end while(a)/(((446094-0x36779)/173))==674 do a=(7122168)while(351-0xc5)>=r do a-= a o[e[U]]=(e[t]~=0);l=l+D;break;end while 3032==(a)/((0x330a5/89))do a=(2385792)while(-0x1d+(18216/0x63))<r do a-= a do return o[e[c]]end break end while 608==(a)/((0x62acc/103))do o[e[h]]=m[e[t]];l=l+d;e=n[l];o[e[c]]=#o[e[C]];l=l+d;e=n[l];m[e[t]]=o[e[_]];l=l+d;e=n[l];o[e[b]]=m[e[C]];l=l+d;e=n[l];o[e[h]]=#o[e[w]];l=l+d;e=n[l];m[e[t]]=o[e[c]];l=l+d;e=n[l];do return end;break end;break;end break;end break;end break;end while(a)/((0x8730/16))==3482 do a=(5450634)while r<=(34020/0xd2)do a-= a a=(11963046)while(393-(509-0x113))>=r do a-= a a=(918591)while(1884/0xc)>=r do a-= a O[e[k]]=o[e[c]];l=l+d;e=n[l];o[e[_]]={};l=l+d;e=n[l];o[e[f]]={};l=l+d;e=n[l];O[e[C]]=o[e[h]];l=l+d;e=n[l];o[e[_]]=O[e[k]];l=l+d;e=n[l];if(o[e[f]]~=e[j])then l=l+D;else l=e[k];end;break;end while 381==(a)/((-97+0x9cc))do a=(130917)while((37450/0xd6)+-0x11)<r do a-= a local r;local t,h;local c;local a;o[e[f]]=O[e[C]];l=l+d;e=n[l];o[e[_]]=O[e[C]];l=l+d;e=n[l];a=e[f];c=o[e[w]];o[a+1]=c;o[a]=c[e[B]];l=l+d;e=n[l];o[e[b]]=e[k];l=l+d;e=n[l];o[e[U]]=(e[M]~=0);l=l+d;e=n[l];a=e[_]t,h=P(o[a](x(o,a+1,e[N])))i=h+a-1 r=0;for e=a,i do r=r+d;o[e]=t[r];end;l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break end while 2567==(a)/((765/(0x5be/98)))do o[e[c]]=o[e[M]][e[S]];break end;break;end break;end while(a)/((7768-0xf5a))==3117 do a=(68544)while(-0x4a+234)>=r do a-= a local r;local t,_;local f;local a;o[e[h]]=O[e[w]];l=l+d;e=n[l];o[e[U]]=O[e[N]];l=l+d;e=n[l];a=e[h];f=o[e[w]];o[a+1]=f;o[a]=f[e[S]];l=l+d;e=n[l];o[e[h]]=e[k];l=l+d;e=n[l];o[e[b]]=(e[N]~=0);l=l+d;e=n[l];a=e[b]t,_=P(o[a](x(o,a+1,e[w])))i=_+a-1 r=0;for e=a,i do r=r+d;o[e]=t[r];end;l=l+d;e=n[l];a=e[c]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[c]]();l=l+d;e=n[l];do return end;break;end while 816==(a)/((-0x19+109))do a=(2365605)while r>(0x25bc/60)do a-= a local r;local h,b;local c;local a;o[e[_]]=O[e[k]];l=l+d;e=n[l];o[e[_]]=O[e[M]];l=l+d;e=n[l];a=e[f];c=o[e[N]];o[a+1]=c;o[a]=c[e[g]];l=l+d;e=n[l];o[e[_]]=e[k];l=l+d;e=n[l];a=e[f]h,b=P(o[a](x(o,a+1,e[w])))i=b+a-1 r=0;for e=a,i do r=r+d;o[e]=h[r];end;l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[_]]();l=l+d;e=n[l];do return end;break end while(a)/(((0x743c0/172)+-0x71))==891 do local l=e[h]local a,e=P(o[l](x(o,l+1,e[N])))i=e+l-1 local e=0;for l=l,i do e=e+d;o[l]=a[e];end;break end;break;end break;end break;end while(a)/((0x3eaae/179))==3801 do a=(13202200)while r<=(0x9de9/245)do a-= a a=(2560868)while r<=(370-0xcf)do a-= a o[e[h]][o[e[M]]]=o[e[B]];break;end while 998==(a)/((0x983b2/243))do a=(6006598)while(0x11f+-123)<r do a-= a if(o[e[b]]==e[g])then l=l+D;else l=e[k];end;break end while 2734==(a)/((404248/0xb8))do local i;local P;local r;local a;o[e[c]]=o[e[t]][e[j]];l=l+d;e=n[l];o[e[_]]=o[e[N]][e[u]];l=l+d;e=n[l];o[e[c]]=o[e[C]][e[g]];l=l+d;e=n[l];a=e[f];r=o[e[C]];o[a+1]=r;o[a]=r[e[s]];l=l+d;e=n[l];o[e[f]]=e[t];l=l+d;e=n[l];o[e[c]]=e[k];l=l+d;e=n[l];a=e[U]o[a](x(o,a+D,e[t]))l=l+d;e=n[l];o[e[b]]=O[e[w]];l=l+d;e=n[l];o[e[c]]=o[e[w]][e[B]];l=l+d;e=n[l];o[e[c]]=o[e[w]][e[S]];l=l+d;e=n[l];o[e[U]]=o[e[k]][e[s]];l=l+d;e=n[l];a=e[b];r=o[e[k]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[c]]=e[N];l=l+d;e=n[l];o[e[h]]=e[t];l=l+d;e=n[l];a=e[_]o[a](x(o,a+D,e[N]))l=l+d;e=n[l];o[e[b]]=O[e[C]];l=l+d;e=n[l];o[e[U]]=o[e[t]][e[g]];l=l+d;e=n[l];o[e[h]]=o[e[k]][e[S]];l=l+d;e=n[l];o[e[h]]=o[e[k]][e[B]];l=l+d;e=n[l];a=e[_];r=o[e[N]];o[a+1]=r;o[a]=r[e[u]];l=l+d;e=n[l];o[e[_]]=e[M];l=l+d;e=n[l];o[e[f]]=e[t];l=l+d;e=n[l];a=e[f]o[a](x(o,a+D,e[N]))l=l+d;e=n[l];o[e[b]]=O[e[t]];l=l+d;e=n[l];o[e[b]]=o[e[k]][e[j]];l=l+d;e=n[l];o[e[c]]=o[e[w]][e[u]];l=l+d;e=n[l];o[e[U]]=o[e[w]][e[s]];l=l+d;e=n[l];a=e[f];r=o[e[w]];o[a+1]=r;o[a]=r[e[u]];l=l+d;e=n[l];o[e[c]]=e[k];l=l+d;e=n[l];o[e[h]]=e[t];l=l+d;e=n[l];a=e[c]o[a](x(o,a+D,e[C]))l=l+d;e=n[l];o[e[h]]=O[e[k]];l=l+d;e=n[l];a=e[c];r=o[e[w]];o[a+1]=r;o[a]=r[e[u]];l=l+d;e=n[l];a=e[b]P={o[a](o[a+1])};i=0;for e=a,e[B]do i=i+d;o[e]=P[i];end l=l+d;e=n[l];l=e[w];break end;break;end break;end while(a)/((-0x46+3470))==3883 do a=(90552)while r<=(0xfe+(-116+0x1c))do a-= a o[e[b]]=L(y[e[k]],nil,O);break;end while(a)/((16464/(2982/0x47)))==231 do a=(2517371)while r>(3340/0x14)do a-= a local r;local a;a=e[_]o[a](x(o,a+D,e[t]))l=l+d;e=n[l];a=e[_];r=o[e[t]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[b]]=e[w];l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[b];r=o[e[N]];o[a+1]=r;o[a]=r[e[B]];l=l+d;e=n[l];o[e[h]]=e[M];l=l+d;e=n[l];o[e[U]]=e[w];break end while 863==(a)/((0x9421/13))do o[e[U]]=o[e[M]];break end;break;end break;end break;end break;end break;end while 659==(a)/((1924-0x3dd))do a=(2411480)while(0x3d2c/(-0x39+144))>=r do a-= a a=(888850)while(20706/0x77)>=r do a-= a a=(2599618)while r<=(468-0x129)do a-= a a=(5095908)while(27716/0xa4)>=r do a-= a if(o[e[b]]==o[e[j]])then l=l+D;else l=e[k];end;break;end while 1412==(a)/((7271-0xe4e))do a=(259794)while r>(36210/(0x23c7/43))do a-= a o[e[U]]=(e[w]~=0);l=l+D;break end while(a)/((45846/(149+-0x7a)))==153 do local r;local B,u;local f;local a;o[e[c]]=O[e[M]];l=l+d;e=n[l];o[e[h]]=o[e[w]][e[g]];l=l+d;e=n[l];o[e[_]]=O[e[N]];l=l+d;e=n[l];o[e[b]]=O[e[w]];l=l+d;e=n[l];a=e[h];f=o[e[C]];o[a+1]=f;o[a]=f[e[S]];l=l+d;e=n[l];o[e[b]]=e[N];l=l+d;e=n[l];a=e[U]B,u=P(o[a](x(o,a+1,e[C])))i=u+a-1 r=0;for e=a,i do r=r+d;o[e]=B[r];end;l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]=e[k];l=l+d;e=n[l];a=e[U]o[a](x(o,a+D,e[t]))l=l+d;e=n[l];do return end;break end;break;end break;end while(a)/((0x9b1+-122))==1102 do a=(6474797)while r<=(-50+0xde)do a-= a local e=e[b]local a,l=P(o[e](o[e+D]))i=l+e-d local l=0;for e=e,i do l=l+d;o[e]=a[l];end;break;end while(a)/((0x1b9d-3552))==1841 do a=(74547)while(408-0xeb)<r do a-= a local l=e[h]o[l]=o[l](x(o,l+d,e[C]))break end while 33==(a)/((4540-0x8e9))do O[e[t]]=o[e[U]];break end;break;end break;end break;end while 290==(a)/((239070/0x4e))do a=(65192)while(0x1cc-283)>=r do a-= a a=(2348944)while r<=(0x7a5d/(240+-0x3d))do a-= a if(o[e[c]]==o[e[g]])then l=l+D;else l=e[w];end;break;end while(a)/((4010+-0x52))==598 do a=(3436539)while(38896/0xdd)<r do a-= a local a=e[f]local n={o[a](x(o,a+1,e[M]))};local l=0;for e=a,e[s]do l=l+d;o[e]=n[l];end break end while(a)/((-0x15+2004))==1733 do local r;local a;a=e[_]o[a](x(o,a+D,e[w]))l=l+d;e=n[l];a=e[c];r=o[e[k]];o[a+1]=r;o[a]=r[e[B]];l=l+d;e=n[l];o[e[b]]=e[M];l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[f];r=o[e[M]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[b]]=e[w];l=l+d;e=n[l];o[e[f]]=e[C];break end;break;end break;end while 562==(a)/((0x8f+-27))do a=(5070360)while r<=(23852/0x86)do a-= a if(o[e[b]]~=e[s])then l=l+D;else l=e[w];end;break;end while(a)/((3839+-0x77))==1363 do a=(6355800)while(306+-0x7f)<r do a-= a local r;local a;o[e[f]]=O[e[k]];l=l+d;e=n[l];o[e[c]]=o[e[k]][e[g]];l=l+d;e=n[l];o[e[c]]=O[e[w]];l=l+d;e=n[l];a=e[_];r=o[e[w]];o[a+1]=r;o[a]=r[e[B]];l=l+d;e=n[l];o[e[U]]=e[w];l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];o[e[b]]=o[e[k]][e[g]];l=l+d;e=n[l];a=e[f];r=o[e[M]];o[a+1]=r;o[a]=r[e[s]];l=l+d;e=n[l];a=e[c]o[a]=o[a](o[a+D])l=l+d;e=n[l];o[e[h]]=O[e[k]];l=l+d;e=n[l];a=e[U];r=o[e[t]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[f]]=e[k];l=l+d;e=n[l];a=e[_]o[a]=o[a](x(o,a+d,e[M]))break end while 2475==(a)/((5220-0xa5c))do local r;local D,M;local b;local a;o[e[f]]=O[e[w]];l=l+d;e=n[l];o[e[U]]=O[e[N]];l=l+d;e=n[l];a=e[h];b=o[e[k]];o[a+1]=b;o[a]=b[e[s]];l=l+d;e=n[l];o[e[U]]=e[t];l=l+d;e=n[l];o[e[c]]=(e[t]~=0);l=l+d;e=n[l];a=e[_]D,M=P(o[a](x(o,a+1,e[k])))i=M+a-1 r=0;for e=a,i do r=r+d;o[e]=D[r];end;l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[_]]();l=l+d;e=n[l];do return end;break end;break;end break;end break;end break;end while 1670==(a)/((0x42fb8/190))do a=(857566)while r<=(0x18d-211)do a-= a a=(2634447)while r<=(0x1a3-236)do a-= a a=(12119435)while r<=(0x1de-297)do a-= a local r;local a;a=e[h]o[a](x(o,a+D,e[M]))l=l+d;e=n[l];a=e[b];r=o[e[w]];o[a+1]=r;o[a]=r[e[S]];l=l+d;e=n[l];o[e[f]]=e[M];l=l+d;e=n[l];a=e[f]o[a]=o[a](x(o,a+d,e[N]))l=l+d;e=n[l];a=e[b];r=o[e[k]];o[a+1]=r;o[a]=r[e[j]];l=l+d;e=n[l];o[e[c]]=e[N];l=l+d;e=n[l];o[e[U]]=e[k];break;end while(a)/((7383-0xe84))==3305 do a=(13004352)while((13572-0x1ab6)/37)<r do a-= a for e=e[b],e[M]do o[e]=nil;end;break end while(a)/((7614-0xee8))==3424 do local e=e[f];do return o[e](x(o,e+1,i))end;break end;break;end break;end while 849==(a)/((257549/0x53))do a=(3348724)while r<=(0x125+-109)do a-= a local r;local a;a=e[f]o[a](x(o,a+D,e[N]))l=l+d;e=n[l];a=e[_];r=o[e[t]];o[a+1]=r;o[a]=r[e[g]];l=l+d;e=n[l];o[e[h]]=e[k];l=l+d;e=n[l];a=e[h]o[a]=o[a](x(o,a+d,e[k]))l=l+d;e=n[l];a=e[h];r=o[e[t]];o[a+1]=r;o[a]=r[e[S]];l=l+d;e=n[l];o[e[c]]=e[N];l=l+d;e=n[l];o[e[h]]=e[w];break;end while(a)/((145726/0x62))==2252 do a=(3408696)while r>(-0x14+205)do a-= a m[e[t]]=o[e[b]];break end while 3303==(a)/((-0x41+1097))do o[e[f]]=O[e[C]];l=l+d;e=n[l];o[e[c]]=o[e[t]][e[u]];l=l+d;e=n[l];o[e[U]]=o[e[w]][e[g]];l=l+d;e=n[l];o[e[_]]=o[e[w]][e[u]];l=l+d;e=n[l];o[e[c]]=O[e[N]];l=l+d;e=n[l];o[e[b]]=o[e[t]];l=l+d;e=n[l];o[e[U]]=e[M];break end;break;end break;end break;end while(a)/((0x21c+-19))==1646 do a=(10090671)while(0x9f78/216)>=r do a-= a a=(7328214)while(-29+0xd8)>=r do a-= a if o[e[b]]then l=l+d;else l=e[w];end;break;end while 3426==(a)/((0x4aad5/143))do a=(885390)while r>(-77+0x109)do a-= a local e=e[f]o[e]=o[e](x(o,e+d,i))break end while(a)/((-77+0xac8))==330 do local r;local w,f;local h;local a;o[e[b]]=O[e[k]];l=l+d;e=n[l];o[e[c]]=O[e[N]];l=l+d;e=n[l];a=e[U];h=o[e[C]];o[a+1]=h;o[a]=h[e[j]];l=l+d;e=n[l];o[e[b]]=e[t];l=l+d;e=n[l];a=e[_]w,f=P(o[a](x(o,a+1,e[C])))i=f+a-1 r=0;for e=a,i do r=r+d;o[e]=w[r];end;l=l+d;e=n[l];a=e[b]o[a]=o[a](x(o,a+d,i))l=l+d;e=n[l];o[e[U]]();l=l+d;e=n[l];do return end;break end;break;end break;end while 3747==(a)/((0x90a4c/220))do a=(15621794)while r<=(0x284a/54)do a-= a a=(2309376)while(502-0x138)<r do a-= a local r;local a;o[e[c]]={};l=l+d;e=n[l];o[e[c]][e[N]]=e[s];l=l+d;e=n[l];o[e[h]][e[M]]=e[g];l=l+d;e=n[l];o[e[h]][e[w]]=e[S];l=l+d;e=n[l];o[e[_]][e[C]]=e[S];l=l+d;e=n[l];o[e[_]][e[N]]=e[S];l=l+d;e=n[l];a=e[U]o[a](x(o,a+D,e[k]))l=l+d;e=n[l];o[e[U]]=O[e[N]];l=l+d;e=n[l];o[e[f]]=O[e[t]];l=l+d;e=n[l];a=e[U];r=o[e[N]];o[a+1]=r;o[a]=r[e[S]];break end while(a)/((104160/0x8c))==3104 do local e=e[h];i=e+J-1;for l=e,i do local e=A[l-e];o[l]=e;end;break end;break;end while 3931==(a)/((-0x1f+4005))do a=(1742900)while r>(19584/0x66)do a-= a o[e[b]]=O[e[w]];break end while(a)/((0xb94-1514))==1202 do local l=e[c];local d=o[e[M]];o[l+1]=d;o[l]=d[e[B]];break end;break;end break;end break;end break;end break;end break;end break;end l+= D end;end);end;return L(J(),{},H())()end)_msec({[(0x98da/215)]='\115\116'..(function(e)return(e and'(-114+0xd6)')or'\114\105'or'\120\58'end)((89+-0x54)==(0x35a/143))..'\110g',[(0x617-819)]='\108\100'..(function(e)return(e and'(9900/0x63)')or'\101\120'or'\119\111'end)((85+-0x50)==(-0x54+90))..'\112',[(473-0xff)]=(function(e)return(e and'(0x24b8/94)')and'\98\121'or'\100\120'end)((-64+0x45)==((0x663-830)/161))..'\116\101',[(-0x62+440)]='\99'..(function(e)return(e and'(0x3e80/160)')and'\90\19\157'or'\104\97'end)((0x74-111)==(0x5f+-92))..'\114',[(638+-0x5f)]='\116\97'..(function(e)return(e and'(315-0xd7)')and'\64\113'or'\98\108'end)((104-0x62)==(0x37-50))..'\101',[(0x256+-106)]=(function(e)return(e and'(119+-0x13)')or'\115\117'or'\78\107'end)((0x1ec/164)==((0x88af4/84)/0xd7))..'\98',[(120785/0x91)]='\99\111'..(function(e)return(e and'((0x1f6-273)-129)')and'\110\99'or'\110\105\103\97'end)((0xba-(0x1a1-262))==(-0x6f+142))..'\97\116',[(0x1f536/195)]=(function(e,l)return(e and'(306-0xce)')and'\48\159\158\188\10'or'\109\97'end)((34-0x1d)==(0x81-123))..'\116\104',[(0xaf3-1437)]=(function(l,e)return((350/0x46)==(93-0x5a)and'\48'..'\195'or l..((not'\20\95\69'and'\90'..'\180'or e)))or'\199\203\95'end),[(195464/(327+-0x73))]='\105\110'..(function(e,l)return(e and'(13300/0x85)')and'\90\115\138\115\15'or'\115\101'end)((1130/0xe2)==(6293/0xcb))..'\114\116',[(0x2a150/162)]='\117\110'..(function(e,l)return(e and'(0x23f0/92)')or'\112\97'or'\20\38\154'end)((0x74-111)==(0x1531/175))..'\99\107',[((78151+-0x1f)/0x46)]='\115\101'..(function(e)return(e and'(18700/0xbb)')and'\110\112\99\104'or'\108\101'end)((0x68-99)==(0xf9f/129))..'\99\116',[(0xa04-1329)]='\116\111\110'..(function(e,l)return(e and'(217-0x75)')and'\117\109\98'or'\100\97\120\122'end)((0x302/154)==(-0x23+(0x78-80)))..'\101\114'},{[((27750/0x96)-141)]=((getfenv))},((getfenv))()) end)()
+local Button = Tab:CreateButton({
+	Name = "Evade",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Robobo2022/script/main/EVADE.lua",true))()
+})
+
+----------------------BlackHub Zombie Uprising Scripts--------------------------
+local Section = Tab:CreateSection("Zombie Uprising")
+
+local Button = Tab:CreateButton({
+	Name = "SlamminPig",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Zombie%20Uprising/ZombieUprisingGUI"))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "6Foot",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://www.6footscripts.com/Scripts/6FootHub/Hub.lua'))();
+})
+
+----------------------BlackHub Clone Tycoon Scripts--------------------------
+local Section = Tab:CreateSection("Clone Tycoon 2")
+
+local Button = Tab:CreateButton({
+	Name = "6Foot",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://www.6footscripts.com/Scripts/6FootHub/Hub.lua'))();
+})
+
+local Button = Tab:CreateButton({
+	Name = "Inf Conits",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "Work Will Buy Ore Sell",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		    local Base = game:GetService("Workspace").Tycoons
+local LocalPlayer = game:GetService'Players'.LocalPlayer
+local Name = LocalPlayer.Name
+while true do
+   workspace.Events.DataStores.uhoh:FireServer('mine', 'Diamonds')
+   workspace.Events.DataStores.uhoh:FireServer('mine', 'Gold')
+   workspace.Events.DataStores.uhoh:FireServer('mine', 'Iron')
+   workspace.Events.DataStores.uhoh:FireServer('mine', 'Coal')
+   for _, Child in next, Base:GetChildren() do
+       if Child.Factory.Player.Value == Name then
+           fireproximityprompt(Child.Factory.Objects.BoughtItems['Ore Refinery'].SpellVortex.Main.Attachment.SellOres)
+       end
+   end
+   task.wait()
+end
+})
+
+local Button = Tab:CreateButton({
+	Name = "InfGems",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "1 Expliot doesn not Working!",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/Slothswithaids/clonetycoon2/main/infgems'))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "No Reason!",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "My Code What Is Heck ?",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		task.spawn(loadstring(game:HttpGet("https://paste.ee/r/N0fo7/0")),[[also if it doesn't load look in the console for some warns / errors]])
+})
+
+----------------------BlackHub [EVENT] Race Clicker Scripts--------------------------
+local Section = Tab:CreateSection("[EVENT] Race Clicker")
+
+local Button = Tab:CreateButton({
+	Name = "Deni210",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/raceclicker/main/RubyHubv1.0", true))()
+})
+
+local Button = Tab:CreateButton({
+	Name = "boomcacas",
+	Callback = function()
+	----------------------BlackHub Chat--------------------------
+	Rayfield:Notify({
+    Title = "Good Night Player To Use Scripts",
+    Content = "Black Notification",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { 
+        Ignore = {
+            Name = "",
+            Callback = function()
+            end
+		},
+	},
+})
+wait(2)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/boomcacas/androminome/main/hub"))()
+})
