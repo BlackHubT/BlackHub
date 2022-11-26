@@ -1,8 +1,5 @@
 ----------------------BlackHub Kick Patched--------------------------
-script.Parent.Touched:Connect(function(hit)
- local Player = game.Players:GetPlayerFromCharacter(hit.Parent)
- Player:kick("Pls The Scripts Is Patched Pls Don Executor Has To Devlpoper Fix Taht :D")
-end)
+getgenv().SecureMode = true
 ----------------------BlackHub Frame--------------------------
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 local Window = Rayfield:CreateWindow({
