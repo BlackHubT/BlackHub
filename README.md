@@ -1,7 +1,7 @@
 ----------------------BlackHub Frame--------------------------
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 local Window = Rayfield:CreateWindow({
-	Name = "BlackHub",
+	Name = "BlackHub V3.7",
 	LoadingTitle = "BlackHub Is Loading :D",
 	LoadingSubtitle = "Create By BlackHub",
 	ConfigurationSaving = {
